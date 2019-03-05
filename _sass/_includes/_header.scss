@@ -65,11 +65,10 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
+
 	@include mq(tabletl) {
-		position: absolute;
-		top: 50%;
-		right: 20px;
+		position: relative;
+		top: 100%;
 		@include translate(0,-50%);
 	}
 }
@@ -88,7 +87,7 @@
 	@include mq(tabletp) {
 		right: 0;
 	}
-	
+
 	@include mq(tabletl) {
 		display: none;
 	}
@@ -126,16 +125,16 @@
 	span:before, span:after {
 		background: $overlay-text-color !important;
 	}
-		
+
 	span {
 		background-color: transparent !important;
 	}
-	
+
 	span:before,
 	span:after {
 		top: 0;
 	}
-	
+
 	span:before {
 		@include rotate(45);
 	}
@@ -178,6 +177,9 @@
 	list-style: none;
 	margin: 0 auto;
 	padding: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 
 	@include mq(tabletp) {
 		padding: 40px 0 0;
@@ -195,7 +197,7 @@
 
 	@include mq(tabletl) {
 		display: inline-block;
-		margin-left: 20px;
+		margin-left: 80px;
 
 		&:first-child {
 			margin-left: 0;
@@ -204,7 +206,8 @@
 }
 
 .menu__list__item__link {
-	font-size: $menu-small;
+	font-family: $title-font;
+	font-size: $menu-large;
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
 	padding: 10px 0;
@@ -227,7 +230,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		color: $overlay-accent-color;
 

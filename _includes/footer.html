@@ -2,7 +2,7 @@
 
 	<div class="wrap">
 
-		{% if site.data.settings.footer_settings.logo_image %}
+		<!-- {% if site.data.settings.footer_settings.logo_image %}
 		<a href="/" class="footer__logo">
 			<img src="{{ site.data.settings.footer_settings.logo_image }}" class="footer__logo__img">
 		</a>
@@ -10,16 +10,13 @@
 		<a href="/" class="footer__title">
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
-		{% endif %}
+		{% endif %} -->
 
-		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
+		<!-- <p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p> -->
 
 		<div class="footer__copyright">
-			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
-			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }} Venetucci Harvey</span>
 		</div>
-
-		{% include socials.html %}
 
 	</div>
 

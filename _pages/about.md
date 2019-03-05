@@ -34,3 +34,5 @@ We've packed Duet full of powerful features to help showcase your work:
 Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
 
 <a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+
+{% include socials.html %}
