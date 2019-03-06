@@ -3,7 +3,7 @@ label: ''
 date: 2019-03-06 10:07:17 -0800
 
 ---
-### Design avatars that make sense — and be more inclusive in the process
+### Designing Better Avatars
 
 #### The quest for better online identities needs a more creative approach
 
