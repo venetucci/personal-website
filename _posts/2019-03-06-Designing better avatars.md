@@ -7,7 +7,7 @@ date: 2019-03-06 10:07:17 -0800
 
 #### The quest for better online identities needs a more creative approach
 
-![](https://cdn-images-1.medium.com/max/2600/1*jOdv5NsdCSZNcDbxQBN7cA.png)
+![](/images/avatar.png)
 
 In a world that is increasingly digital, human connections are as likely to happen online as offline. Social apps play a crucial role in society’s evolving norms around identity, and one component of this is the imagery used to represent individual users on various platforms, generally known as avatars.
 
