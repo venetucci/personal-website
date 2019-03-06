@@ -119,7 +119,7 @@ Not only was noise a major problem in open office settings, but collaboration be
 
 Towards the end of the study, the authors note that these results “categorically contradict the industry-accepted wisdom that open-plan layout enhances communication between colleagues and improves occupants’ overall work environmental satisfaction”.
 
-![](https://cdn-images-1.medium.com/max/1600/1*Fi3Mf0NtJGXbQgYmsBBkOA.png)Mean satisfaction rating (3 = very dissatisfied, through 0 = neutral to 3 = very satisfied) for IEQ questionnaire items by office layout configurations (Error bars = 95% confidence interval).
+_![](https://cdn-images-1.medium.com/max/1600/1*Fi3Mf0NtJGXbQgYmsBBkOA.png)Mean satisfaction rating (3 = very dissatisfied, through 0 = neutral to 3 = very satisfied) for IEQ questionnaire items by office layout configurations (Error bars = 95% confidence interval)._
 
 ### Traditional versus Open Office Design — [A Longitudinal Field Study](http://journals.sagepub.com/doi/abs/10.1177/0013916502034003001)
 
@@ -198,7 +198,7 @@ The publication is organized into the following sections:
 * **How to facilitate change**: The publication includes an extensive discussion about how to facilitate physical changes in the workplace, so as not to “breed resistance and resentment”. It also discusses how to incorporate user participation and bi-directional sharing of information. This section includes two case studies of successfully enacting change through user participation.
 * **Relying on research**: Advice on using existing research from a variety of fields to inform decisions and help facilitate change, and recommendations for new research.
 
-![](https://cdn-images-1.medium.com/max/1200/1*ZPCq8VzzP_w60s1ZHoe-3A.png)Figure 1. Showing the “inter-related nature of an organizational system”
+_![](https://cdn-images-1.medium.com/max/1200/1*ZPCq8VzzP_w60s1ZHoe-3A.png)Figure 1. Showing the “inter-related nature of an organizational system”_
 
 One of my favorite parts is the recommendation to not only use socio-technical systems theory to address the physical workplace environment. But also to expand the methodology to account for the entire work culture, including processes (See Figure 1).
 
@@ -276,13 +276,13 @@ Some results include:
 * When asked if open office plans create a lack of privacy, people who had only ever worked in large open office plans were less likely to agree with the statement (57%) than those who had worked in smaller offices (74%).
 * Most people who had worked in both large open offices and smaller environments preferred the smaller environment (72%).
 
-![](https://cdn-images-1.medium.com/max/2000/1*b2hwPVCeJQEOvLGEWI74vw.png)Table 1 (left) and Table 2 (right)
+_![](https://cdn-images-1.medium.com/max/2000/1*b2hwPVCeJQEOvLGEWI74vw.png)Table 1 (left) and Table 2 (right)_
 
 A result I found interesting is that employees felt that open offices helped them “get on well with colleagues” and facilitated some level of after-hours socialization. This wasn’t enough to make the work itself less stressful.
 
 Personally, I’m not convinced that hanging out with coworkers outside of work hours is an effective goal, nor is it an incredibly inclusive work expectation.
 
-![](https://cdn-images-1.medium.com/max/1200/1*Jwf0WmPjybckRFX0ht4sMQ.png)Table 3
+_![](https://cdn-images-1.medium.com/max/1200/1*Jwf0WmPjybckRFX0ht4sMQ.png)Table 3_
 
 The study discussed the challenges with defining “productivity” for different types of jobs. It also tried to codify job types and correlate them to reactions to open office plans (see Table 3).
 
@@ -320,7 +320,3 @@ There is overwhelming evidence that existing versions of open office plans are t
 > Can you still call yourself a data-driven company if you don’t listen to the data?
 
 And for everyone else, remember — you aren’t broken, but your office might be.
-
-***
-
-_Have any thoughts about office layouts, personal stories about alternative work environments, or other studies that should be included in this list? Send them my way by commenting below._
