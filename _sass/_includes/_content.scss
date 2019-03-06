@@ -38,7 +38,7 @@
 		@include mq(tabletp) {
 			padding-left: 0;
 			padding-right: 0;
-			max-width: 70%;
+			max-width: 80%;
 		}
 
 		@include mq(tabletl) {
@@ -118,11 +118,11 @@
 	table {
 		margin: 20px auto;
 		width: 100%;
-		max-width: 90%;
+		max-width: 80%;
 
 		@include mq(tabletp) {
 			margin: 30px auto;
-			max-width: 70%;
+			max-width: 80%;
 		}
 
 		@include mq(tabletl) {
@@ -209,15 +209,17 @@
 .image-wrap,
 .video-wrap {
 	position: relative;
-	max-width: 50%;
+	max-width: 80%;
 	margin: 20px auto;
 
 	@include mq(tabletp) {
 		margin: 30px auto;
+		max-width: 70%;
 	}
 
 	@include mq(laptop) {
 		margin: 40px auto;
+		max-width: 50%;
 	}
 
 	&:first-child {

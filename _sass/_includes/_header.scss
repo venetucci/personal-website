@@ -10,17 +10,21 @@
 
 .header {
 	margin-top: 40px;
+	max-width: 500px;
 
 	@include mq(tabletp) {
 		margin-top: 50px;
+		max-width: 90%;
 	}
 
 	@include mq(tabletl) {
 		margin-top: 60px;
+		max-width: 90%;
 	}
 
 	@include mq(laptop) {
 		margin-top: 80px;
+		max-width: 80%;
 	}
 }
 
@@ -123,7 +127,7 @@
 .menu--open .menu__toggle__icon {
 
 	span:before, span:after {
-		background: $overlay-text-color !important;
+		background: $text-dark-color !important;
 	}
 
 	span {
@@ -151,7 +155,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($overlay-background-color,0.95);
+	background: $background-color;
 	overflow: auto;
 
 	visibility: hidden;
@@ -177,7 +181,7 @@
 	list-style: none;
 	margin: 0 auto;
 	padding: 30px;
-	display: flex;
+	display: block;
 	justify-content: center;
 	align-items: center;
 
@@ -190,6 +194,7 @@
 		max-width: none;
 		margin: 0;
 		padding: 0;
+		display: flex;
 	}
 }
 
@@ -209,8 +214,9 @@
 	font-family: $title-font;
 	font-size: $menu-large;
 	font-weight: $menu-weight;
-	color: $overlay-text-color;
+	color: $text-dark-color;
 	padding: 10px 0;
+	border-bottom: 2px solid transparent;
 
 	&:hover {
 		color: $overlay-accent-color;
@@ -233,6 +239,7 @@
 
 	&.active-link {
 		color: $overlay-accent-color;
+		border-color: $accent-color;
 
 		@include mq(tabletl) {
 			color: $text-dark-color;
