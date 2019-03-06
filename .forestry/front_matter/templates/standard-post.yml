@@ -11,3 +11,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/Design Avatars that make sense.md
