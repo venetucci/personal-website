@@ -187,7 +187,7 @@ Making communities inclusive can be hard work. Even just deciding on an avatar s
 2. Be creative. While the generic answer often seems easiest, it’s usually not that effective.
 3. Think about context. Your avatars still need to solve a core problem for your users and business, and understanding that problem can help you narrow down your design choices.
 
-### Extra reading
+## Extra reading
 
 [**Anonymously male: Social media avatar icons are implicitly male and resistant to change**](http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501 "http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501")
 
