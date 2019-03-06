@@ -7,9 +7,7 @@ date: 2019-03-06 10:19:15 -0800
 
 ![](https://cdn-images-1.medium.com/max/2600/1*1VK771RsnnH-cHIv_nTMvA.png)Apple’s new office layout has been described as “[programmer hell](https://twitter.com/galaxykate/status/891348106691960832?lang=en)”. The research backs up this sentiment.
 
-### A research roundup to show that your office layout is toxic (and some tips for making it better)
-
-#### Can you still call yourself a data-driven company if you don’t listen to the data?
+### Can you still call yourself a data-driven company if you don’t listen to the data?
 
 I used to think my frustration with open office plans meant that something was wrong with me.
 
@@ -60,7 +58,7 @@ This publication is extensive, and is only a snapshot of a larger book by the BO
 
 The major finding that was most interesting to me is that _open offices don’t increase open communications._ The open office plan’s entire premise is based on the assumption that reducing barriers increases the quality of communication between coworkers. However, BOSTI [found the exact opposite to be true](https://www.researchgate.net/publication/248708306_Disproving_widespread_myths_about_workplace_design#pf25):
 
-![](https://cdn-images-1.medium.com/max/1600/1*lUvUFayE_b6vvOWc3IqNwA.png)Figure 1. Full enclosures show the best support for quality communications.
+_![](https://cdn-images-1.medium.com/max/1600/1*lUvUFayE_b6vvOWc3IqNwA.png)Figure 1. Full enclosures show the best support for quality communications._
 
 The document is extensive, so here are some of the most relevant passages:
 
@@ -72,7 +70,7 @@ The document is extensive, so here are some of the most relevant passages:
 * Physical openness [does not](https://www.researchgate.net/publication/248708306_Disproving_widespread_myths_about_workplace_design#pf29) equal communication openness, and generally has a negative effect.
 * What to do with these findings [to improve](https://www.researchgate.net/publication/248708306_Disproving_widespread_myths_about_workplace_design#pf33) your office environment.
 
-![](https://cdn-images-1.medium.com/max/1600/1*tWeEWiVY7WD4SoNlvNbH-A.png)This example of an updated office design includes an interaction-heavy “Main Street” (top left), private workspaces that have physical and auditory blockers, and private group collaboration spaces (bottom).
+_![](https://cdn-images-1.medium.com/max/1600/1*tWeEWiVY7WD4SoNlvNbH-A.png)This example of an updated office design includes an interaction-heavy “Main Street” (top left), private workspaces that have physical and auditory blockers, and private group collaboration spaces (bottom)._
 
 ### Should Health Service Managers Embrace Open Plan Work Environments? — [A review](https://search.informit.com.au/documentSummary;dn=424236471220718;res=IELAPA)
 
