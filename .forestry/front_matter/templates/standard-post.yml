@@ -1,0 +1,13 @@
+---
+label: Standard post
+hide_body: false
+fields:
+- type: textarea
+  name: label
+  label: Label
+  description: description
+  hidden: false
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
