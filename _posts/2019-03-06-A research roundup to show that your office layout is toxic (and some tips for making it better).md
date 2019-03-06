@@ -3,8 +3,6 @@ label: ''
 date: 2019-03-06 10:19:15 -0800
 
 ---
-***
-
 ![](https://cdn-images-1.medium.com/max/2600/1*1VK771RsnnH-cHIv_nTMvA.png)Apple’s new office layout has been described as “[programmer hell](https://twitter.com/galaxykate/status/891348106691960832?lang=en)”. The research backs up this sentiment.
 
 ### Can you still call yourself a data-driven company if you don’t listen to the data?
