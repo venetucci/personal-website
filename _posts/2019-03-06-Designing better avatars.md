@@ -179,23 +179,16 @@ Making communities inclusive can be hard work. Even just deciding on an avatar s
 
 ### Extra reading
 
-[**Anonymously male: Social media avatar icons are implicitly male and resistant to change**  
-_When asked to pick a typical human, people are more likely to pick a man than a woman, a phenomenon reflecting androcentrism…_www.cyberpsychology.eu](http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501 "http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501")
+[**Anonymously male: Social media avatar icons are implicitly male and resistant to change**](http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501 "http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501")
 
-[**Effects of Avatar Race in Violent Video Games on Racial Attitudes and Aggression**  
-_The media often link Black characters and violence. This is especial true in video games, in which Black male characters are virtually always violent..._journals.sagepub.com](http://journals.sagepub.com/doi/abs/10.1177/1948550614528008 "http://journals.sagepub.com/doi/abs/10.1177/1948550614528008")
+[**Effects of Avatar Race in Violent Video Games on Racial Attitudes and Aggression**](http://journals.sagepub.com/doi/abs/10.1177/1948550614528008 "http://journals.sagepub.com/doi/abs/10.1177/1948550614528008")
 
-[**When He Doesn’t Mean You: Gender-Exclusive Language as Ostracism**  
-_Three studies assessed whether a common cultural practice, namely, the use of gender-exclusive language, is experienced as ostracism at the group level by women..._journals.sagepub.com](http://journals.sagepub.com/doi/10.1177/0146167211406434 "http://journals.sagepub.com/doi/10.1177/0146167211406434")
+[**When He Doesn’t Mean You: Gender-Exclusive Language as Ostracism**](http://journals.sagepub.com/doi/10.1177/0146167211406434 "http://journals.sagepub.com/doi/10.1177/0146167211406434")
 
-[**Identity, Avatars, Virtual Life - and Advancing Social Equity in the 'Real' World**  
-_This semester, MIT professor Fox Harrell is teaching an ambitious new course on "Identity Representation" that includes…_dmlcentral.net](https://dmlcentral.net/identity-avatars-virtual-life-and-advancing-social-equity-in-the-real-world/ "https://dmlcentral.net/identity-avatars-virtual-life-and-advancing-social-equity-in-the-real-world/")
+[**Identity, Avatars, Virtual Life - and Advancing Social Equity in the 'Real' World**](https://dmlcentral.net/identity-avatars-virtual-life-and-advancing-social-equity-in-the-real-world/ "https://dmlcentral.net/identity-avatars-virtual-life-and-advancing-social-equity-in-the-real-world/")
 
-[**“Whose Second Life Is This?” How Avatar-Based Racial Cues Shape Ethno-Racial Minorities’ Perception of Virtual Worlds**  
-_Research on social identity contingencies suggests that situational cues, such as numerical representation of social identities in a given social environment, can trigger identity-associated…_online.liebertpub.com](http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0501 "http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0501")
+[**“Whose Second Life Is This?” How Avatar-Based Racial Cues Shape Ethno-Racial Minorities’ Perception of Virtual Worlds**](http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0501 "http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0501")
 
-[**Our Avatars, Our Selves: Gender & Second Life**  
-_An interesting (but slightly limited) study was recently posted on the Pixels and Policy blog, about attitudes towards…_jezebel.com](http://jezebel.com/5395620/our-avatars-our-selves-gender--second-life "http://jezebel.com/5395620/our-avatars-our-selves-gender--second-life")
+[**Our Avatars, Our Selves: Gender & Second Life**](http://jezebel.com/5395620/our-avatars-our-selves-gender--second-life "http://jezebel.com/5395620/our-avatars-our-selves-gender--second-life")
 
-[**The Power of Real-World Gender Roles in Second Life**  
-_Pixels and Policy recently tackled the issue of how racial bias crept across the real-virtual divide and found a home…_pixelsandpolicy.com](http://pixelsandpolicy.com/pixels_and_policy/2009/11/female-avatars.html "http://pixelsandpolicy.com/pixels_and_policy/2009/11/female-avatars.html")
+[**The Power of Real-World Gender Roles in Second Life**](http://pixelsandpolicy.com/pixels_and_policy/2009/11/female-avatars.html "http://pixelsandpolicy.com/pixels_and_policy/2009/11/female-avatars.html")
