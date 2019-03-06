@@ -18,7 +18,7 @@ featured_image: "/images/social.jpg"
 
 <section class="blog">
 
-	<div class="content-wrap blog-wrap">
+	<div class="wrap">
 
 		{% for post in paginator.posts %}
 
@@ -26,9 +26,9 @@ featured_image: "/images/social.jpg"
 
 			<a class="blog-post__link" href="{{ post.url }}">
 
-				<div class="blog-post__image">
+				<!-- <div class="blog-post__image">
 					<img src="{{ post.featured_image  }}" alt="{{ post.title }}">
-				</div>
+				</div> -->
 
 				<div class="blog-post__content">
 					<div class="blog-post__info">
@@ -40,6 +40,7 @@ featured_image: "/images/social.jpg"
 			</a>
 
 		</article>
+
 
 		{% endfor %}
 

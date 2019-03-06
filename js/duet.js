@@ -119,7 +119,7 @@
 
 			// If link is handled by some JS action – e.g. fluidbox
 			else if ( $(this).is('.gallery__item__link') ) {
-				
+
 				// Let JS handle it
 			}
 
@@ -128,7 +128,7 @@
 
 				// Change navTarget
 				navTarget = thisTarget;
-				
+
 				// Switch the URL via History
 				History.pushState(null, docTitle, thisTarget);
 			}
@@ -162,19 +162,11 @@
 
 		// Wait until first image has loaded
 		$('.page__content').find('img:first').imagesLoaded( function() {
-	
+
 			// Portfolio grid layout
 			$('.portfolio-wrap').imagesLoaded( function() {
 				$('.portfolio-wrap').masonry({
 					itemSelector: '.portfolio-item',
-					transitionDuration: 0
-				});
-			});
-
-			// Blog grid layout
-			$('.blog-wrap').imagesLoaded( function() {
-				$('.blog-wrap').masonry({
-					itemSelector: '.blog-post',
 					transitionDuration: 0
 				});
 			});
@@ -267,7 +259,7 @@
 							if ( direction === 'down') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
@@ -275,7 +267,7 @@
 							if ( direction === 'up') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
@@ -291,7 +283,7 @@
 							if ( direction === 'down') {
 
 								// console.log('play');
-								
+
 								// Play this carousel
 								$this.children('.gallery__wrap').trigger('play.owl.autoplay');
 							}
@@ -299,7 +291,7 @@
 							if ( direction === 'up') {
 
 								// console.log('pause');
-							
+
 								// Pause this carousel
 								$this.children('.gallery__wrap').trigger('stop.owl.autoplay');
 							}
@@ -318,7 +310,7 @@
 						itemSelector: '.gallery__item',
 						transitionDuration: 0
 					});
-							
+
 					// Init fluidbox
 					$this.find('.gallery__item__link').fluidbox({
 						loader: true
@@ -437,7 +429,7 @@
 		}
 
 	});
-	
-	
-	
+
+
+
 }(jQuery));

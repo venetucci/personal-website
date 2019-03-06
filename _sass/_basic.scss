@@ -20,8 +20,6 @@ body {
 	color: $text-medium-color;
 }
 
-
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,6 +28,24 @@ h1, h2, h3, h4, h5, h6 {
 
 	&:first-child {
 		margin-top: 0;
+	}
+
+	a {
+		color: $text-dark-color;
+		font-weight: $bold-weight;
+		@include transition(all 0.15s ease-in-out);
+		border-bottom: 1px solid currentColor;
+	  display: inline-block;
+	  line-height: 0.85;
+	  text-shadow:
+	    1px -1px white,
+	    -1px 1px white,
+	    0px 0px white,
+	    0px 0px white;
+
+		&:hover {
+			color: $accent-color;
+		}
 	}
 }
 
@@ -194,17 +210,17 @@ blockquote {
 }
 
 a {
-	color: $text-dark-color;
-	font-weight: $bold-weight;
+	color: $text-medium-color;
+	font-weight: 300;
 	@include transition(all 0.15s ease-in-out);
 	border-bottom: 1px solid currentColor;
   display: inline-block;
   line-height: 0.85;
   text-shadow:
-    2px 2px white,
-    2px -2px white,
-    -2px 2px white,
-    -2px -2px white;
+    1px -1px white,
+    -1px 1px white,
+    0px 0px white,
+    0px 0px white;
 
 	&:hover {
 		color: $accent-color;
@@ -395,4 +411,8 @@ section {
 	@include mq(laptop) {
 		max-width: 60%;
 	}
+}
+
+.single {
+		margin-top: 20px;
 }
