@@ -19,8 +19,6 @@ Sometimes I read parts of books or jump around. An ongoing list of in-process bo
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=sapiens) by Yuval Noah Harari
 * [The Sociological Imagination](https://www.amazon.com/Sociological-Imagination-C-Wright-Mills-ebook/dp/B000SEOIK6/ref=sr_1_1?s=books&ie=UTF8&qid=1535303688&sr=1-1&keywords=sociological+imagination) by C. Wright Mills
 
-### Books
-
 |Book title|Author(s)|Type|Extras|
 |---|---|---|---|---|
 |Radical Candor|Kim Scott 🔸♀|Nonfiction||
