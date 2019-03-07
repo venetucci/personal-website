@@ -12,12 +12,7 @@ Past list: <a href="/reading-list-2018">2018</a>
 
 |Michelle's open source notes|
 |---|
-|<a href="https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2" target="_blank">General open offices research</a>|
-|<a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/power-of-myth-notes.md" target="_blank">The Power of Myth Quotations</a>|
-|<a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md" target="_blank">Technopology notes (extensive)</a>|
-|<a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/cubed-notes.md" target="_blank">Cubed notes</a>|
-|<a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/justice-class.md" target="_blank">Harvard Justice class notes</a>|
-|<a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md" target="_blank">Platform Revolution notes (extensive)</a>|
+|<a href="https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2" target="_blank">General open offices research</a><br><a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/power-of-myth-notes.md" target="_blank">The Power of Myth Quotations</a><br><a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md" target="_blank">Technopology notes (extensive)</a><br><a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/cubed-notes.md" target="_blank">Cubed notes</a><br><a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/justice-class.md" target="_blank">Harvard Justice class notes</a><br><a href="https://github.com/venetucci/book-notes/blob/master/2018%20notes/platform-revolution-notes.md" target="_blank">Platform Revolution notes (extensive)</a>|
 
 |Book title|Author(s)|Type|Extras|
 |---|---|---|---|

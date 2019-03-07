@@ -9,7 +9,7 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	margin-top: 40px;
+	margin-top: 80px;
 	max-width: 500px;
 
 	@include mq(tabletp) {
@@ -19,12 +19,12 @@
 
 	@include mq(tabletl) {
 		margin-top: 60px;
-		max-width: 90%;
+		max-width: 100%;
 	}
 
 	@include mq(laptop) {
-		margin-top: 80px;
-		max-width: 80%;
+		margin-top: 110px;
+		max-width: 100%;
 	}
 }
 
@@ -207,6 +207,7 @@
 		&:first-child {
 			margin-left: 0;
 		}
+
 	}
 }
 
@@ -247,6 +248,55 @@
 		}
 	}
 }
+
+#alice-1 {
+	position: fixed;
+  display: none;
+  height: 100px;
+	margin-top: -126px;
+	margin-left: -12px;
+}
+
+#alice-2 {
+	position: fixed;
+  display: none;
+  height: 100px;
+	margin-top: -126px;
+	margin-left: -5px;
+}
+
+#alice-3 {
+	position: fixed;
+  display: none;
+  height: 100px;
+	margin-top: -126px;
+}
+
+#alice-4 {
+	position: fixed;
+  display: none;
+  height: 100px;
+	margin-top: -126px;
+	margin-left: -20px;
+}
+
+.menu__list__item:hover #alice-1 {
+	display: block;
+}
+
+.menu__list__item:hover #alice-2 {
+	display: block;
+}
+
+.menu__list__item:hover #alice-3 {
+	display: block;
+}
+
+.menu__list__item:hover #alice-4 {
+	display: block;
+}
+
+
 
 .menu__button {
 	margin-top: 15px;

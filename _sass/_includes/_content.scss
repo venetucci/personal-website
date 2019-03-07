@@ -7,7 +7,6 @@
 .intro {
 
 	h1 {
-
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -97,11 +96,12 @@
 		margin: 20px auto;
 
 		@include mq(tabletp) {
-			margin: 30px auto;
+			margin: 20px auto;
 		}
 
 		@include mq(laptop) {
-			margin: 40px auto;
+			margin: 20px auto;
+			max-width: 60%;
 		}
 	}
 
@@ -242,5 +242,54 @@
 		left: 0;
 		width: 100%;
 		height: 100%;
+	}
+}
+
+.error-image {
+	display:none;
+
+	@include mq(tabletp) {
+		display:inline;
+		width: 40%;
+		margin-left: 10%;
+		float: left;
+	}
+
+	@include mq(tabletl) {
+		display:inline;
+		width: 40%;
+		margin-left: 10%;
+		float: left;
+	}
+
+	@include mq(laptop) {
+		display:inline;
+		width: 20%;
+		margin-left: 25%;
+		float: left;
+	}
+}
+
+.error-text {
+
+	@include mq(tabletp) {
+		position:absolute;
+		bottom: 7%;
+    right: -4%;
+    width: 80%;
+	}
+
+	@include mq(tabletl) {
+		position:absolute;
+		bottom: 7%;
+    right: -4%;
+    width: 80%;
+	}
+
+	@include mq(laptop) {
+		position:absolute;
+		bottom: 9%;
+		right: 24%;
+		width: 50%;
 	}
 }

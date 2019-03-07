@@ -1,6 +1,6 @@
 ---
 label: ''
-date: 2019-03-06 10:07:17 -0800
+date: 2017-05-01 10:07:17 -0800
 
 ---
 #### The quest for better online identities needs a more creative approach.
@@ -11,7 +11,7 @@ In a world that is increasingly digital, human connections are as likely to happ
 
 Since this is a favorite subject of mine, I decided to create an all-in-one guide to better avatars. This article covers some common missteps, shows why good avatar design matters, and lays out real-world examples of better avatars in action.
 
-## Why should we care about avatars and inclusivity?
+### Why should we care about avatars and inclusivity?
 
 The earliest use of the term avatar in a computer game was in the 1979 [role playing game _Avatar _](http://www.uvlist.net/game-174616-avatar)by PLATO, which was inspired by earlier versions of [dnd](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Dnd). The first time it was used as a term to represent the user’s identity onscreen was in [Ultima IV: Quest of the Avatar](http://www.filfre.net/2014/07/ultima-iv/) in 1985.
 
@@ -23,7 +23,7 @@ While this goal of humanizing online communities with human-like iconography is 
 
 And while designing good avatars can seem unnecessarily complicated, there are [some theories](https://dmlcentral.net/identity-avatars-virtual-life-and-advancing-social-equity-in-the-real-world/) that suggest that more inclusive approaches to avatars in digital spaces can improve gender and race equity in the non-virtual world.
 
-## The myth of a gender neutral default
+### The myth of a gender neutral default
 
 Often, in an effort to make avatars gender and race neutral, platforms will opt for a less realistic grayscale default.
 
@@ -33,7 +33,7 @@ The problem is, in modern Western society the default is still male. _Actor_ is 
 
 This tendency to view men’s bodies, thoughts, and experiences as more normative than women’s is a phenomenon called androcentrism. Even in contexts that we think of as being gender and race neutral, andro and eurocentric biases [lead to detrimental outcomes](http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501) in medicine, business, and education — and in online communities.
 
-## It’s not a simple fix
+### It’s not a simple fix
 
 One solution a lot of companies try, understandably, is increasing the usage of female-typed avatars and iconography. After using a clearly male placeholder avatar for a number of years, Facebook [created a female default](https://thesocietypages.org/socimages/2009/04/15/who-is-facebook/) for its female users around 2010. The company also [did some work](http://www.ibtimes.co.uk/facebook-icon-gets-feminist-makeover-1510028) in 2015 to make female iconography more prominent on the platform, although they continue to use very caucasian-looking hairstyles and colors.
 
@@ -47,11 +47,11 @@ And then there’s the fact that updating your platform’s avatar won’t incre
 
 If a generic avatar is supposed to represent diverse individuals, there’s basically nothing you can do with a human silhouette that won’t be problematic.
 
-## Ideas for better avatars
+### Ideas for better avatars
 
 If human silhouettes are out of the question, what’s a platform to do? I rounded up real-world examples of better approaches, and provided some recommendations for what context makes the most sense to use them. Not only are these examples more inclusive, they are often more effective, on-brand, and delightful than a generic human silhouette.
 
-### Identicons
+#### Identicons
 
 _![](https://cdn-images-1.medium.com/max/1600/1*GFfyEJQGbPy0hGvHJpFYLQ.png)Github identicon style (_[_source_](https://github.com/blog/1586-identicons)_)_
 
@@ -63,7 +63,7 @@ _![](https://cdn-images-1.medium.com/max/1600/1*kybE-OUjabHUAIDuL_VIyA.png)Githu
 
 **Ideas for when to use:** At a glance, identicons can lean a little nerdy and confusing for less technical people. But because of this, identicons are a nice addition to more professional and programming-related platforms, where users won’t be as confused by random geometric images. The fact that identicons can be uniquely generated based on a user’s IP address can further reassure more technically-savvy people about the security of a site. Increasing trust while decreasing the ostracism of specific groups — a win!
 
-### Animals
+#### Animals
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vqIQFOOCcoftxp-B6OfY2g.png)
 
@@ -85,7 +85,7 @@ Virgin America also uses a combination of what I’ve been calling “blob monst
 
 When used thoughtfully, animals can add a playful element to otherwise mundane products, which encourages engagement. They can also be useful in contexts where you want to distinguish between users but don’t need to reveal a user’s actual identity. Because unique animals are so fun, it’s probably not a great avatar solution if you want to encourage users to upload their own photos. Why would I upload an image of myself when [I can be an Axolotl](http://www.hercampus.com/school/ucd/weirdest-google-doc-anonymous-animals-explained)?
 
-### Initials
+#### Initials
 
 ![](https://cdn-images-1.medium.com/max/1600/1*y1UA72estFGDob6CAA7zxg.png)([_Source_](https://github.com/eladnava/material-letter-icons)_)_
 
@@ -105,7 +105,7 @@ Dropbox has [a similar system](https://dribbble.com/shots/1972358-Faceholder/att
 
 **Ideas for when to use:** Initials are a good way to provide identifying information when no profile image is present. Pairing initials with a unique color can help visually organize comment threads at a glance and provide extra context as to who is commenting.
 
-### Smiley faces
+#### Smiley faces
 
 ![](https://cdn-images-1.medium.com/max/1600/1*BhP4v2x7CxrP2c3xxETUKQ.png)
 
@@ -121,7 +121,7 @@ One drawback to initials is that because they are already personal identifiers, 
 
 **Ideas for when to use:** When you want to encourage the user to upload a unique image but still want to humanize a product in its empty state, smiley faces can be a cute and playful way to encourage actual photo uploads.
 
-### Aliens and monsters
+#### Aliens and monsters
 
 _![](https://cdn-images-1.medium.com/max/1600/1*Ayk1cM0aKEkifmo9CTRblQ.png)Virgin America avatar set (_[_source_](https://animade.tv/work/digital-avatars)_)_
 
@@ -139,7 +139,7 @@ _Talk.to default user icons (_[_source_](https://dribbble.com/shots/1526236-Avat
 
 **Ideas for when to use:** Colorful monsters and aliens are a really delightful way to increase engagement and give personality to comment threads and mundane tasks. If they incorporate brand elements, it’s a smart strategy to connect company identity to something fun and memorable, which can have a positive impact on customer loyalty. However, if your goal is to get people to upload their own photos, you might run into the same problem as you do with animals; these little monsters are just too cute to replace with an image of my own face.
 
-### **Brand-related mascots**
+#### **Brand-related mascots**
 
 _![](https://cdn-images-1.medium.com/max/1600/1*KXZ1Xr1STjAGRsbG7VmWtw.png)Snapchat empty state_
 
@@ -149,7 +149,7 @@ _![](https://cdn-images-1.medium.com/max/1600/1*KXZ1Xr1STjAGRsbG7VmWtw.png)Snapc
 
 **Ideas for when to use:** Using a brand mascot is a great way to carry over your brand image into the product and add some personality to the empty states of the experience, while staying away from strictly human shapes.
 
-### Brand Colors and symbols
+#### Brand Colors and symbols
 
 ![](https://cdn-images-1.medium.com/max/1600/1*NJtYz1BpQL5RcYbnXVXaVA.png)
 
@@ -163,7 +163,7 @@ Gravatar’s default is their logo on a blue background, which can get annoying 
 
 **Ideas for when to use:** This seems like a good option when you want on-brand imagery that encourages photo uploads, since the Slack logo is certainly not a very personal identifier. The unique variations of Slack’s default help these avatars still feel useful in message threads, but not personal enough to discourage photo uploads.
 
-### Memes and pop culture
+#### Memes and pop culture
 
 ![](https://cdn-images-1.medium.com/max/1600/1*64S5h6ISD4C-7TxBcYek3w.gif)
 
@@ -175,7 +175,7 @@ _9gag’s random avatar generator_
 
 **Ideas for when to use:** Since people talking on public message boards might not always want to display their actual likeness, random pop culture images can provide some anonymity as well as tie into the fun vibe of sites like 9gag. This approach is on brand and still helps organize comment sections, since each user still has a somewhat unique avatar.
 
-## Final thoughts
+### Final thoughts
 
 ![](https://cdn-images-1.medium.com/max/1600/1*vdGOhfwIs16KqradeKmMOw.png)
 
@@ -187,7 +187,7 @@ Making communities inclusive can be hard work. Even just deciding on an avatar s
 2. Be creative. While the generic answer often seems easiest, it’s usually not that effective.
 3. Think about context. Your avatars still need to solve a core problem for your users and business, and understanding that problem can help you narrow down your design choices.
 
-## Extra reading
+### Extra reading
 
 [**Anonymously male: Social media avatar icons are implicitly male and resistant to change**](http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501 "http://www.cyberpsychology.eu/view.php?cisloclanku=2016121501")
 

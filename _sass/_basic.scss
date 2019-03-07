@@ -23,7 +23,6 @@ body {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $title-font;
 	color: $text-dark-color;
 
 	&:first-child {
@@ -50,6 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
+	font-family: $title-font;
 	font-size: $h1-small;
 	font-weight: $h1-weight;
 	line-height: $h1-lineheight;
@@ -65,6 +65,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
+	font-family: $title-font;
 	margin-top: 40px;
 	font-size: $h2-small;
 	font-weight: $h2-weight;
@@ -86,6 +87,7 @@ h3, .h3 {
 	font-weight: $h3-weight;
 	line-height: $h3-lineheight;
 	letter-spacing: $h3-spacing;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $h3-medium;
@@ -102,6 +104,7 @@ h4, .h4 {
 	font-weight: $h4-weight;
 	line-height: $h4-lineheight;
 	letter-spacing: $h4-spacing;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $h4-medium;
@@ -118,6 +121,7 @@ h5, .h5 {
 	font-weight: $h5-weight;
 	line-height: $h5-lineheight;
 	letter-spacing: $h5-spacing;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $h5-medium;
@@ -134,6 +138,7 @@ h6, .h6 {
 	font-weight: $h6-weight;
 	line-height: $h6-lineheight;
 	letter-spacing: $h6-spacing;
+	font-family: $body-font;
 
 	@include mq(tabletp) {
 		font-size: $h6-medium;
@@ -169,28 +174,29 @@ p, ul, ol {
 }
 
 ul, ol {
-	list-style-position: inside;
+	list-style-position: outside;
+	padding-left: 40px !important;
 }
 
 blockquote {
 	margin-top: 15px;
-	border-left: 2px solid $text-dark-color;
-	padding: 10px 0 10px 20px;
+	border-left: 1px solid $text-light-color;
+	padding: 4px 0 4px 20px;
 	font-size: $blockquote-small;
 	font-weight: $blockquote-weight;
 	letter-spacing: $blockquote-spacing;
 	line-height: $blockquote-lineheight;
 
 	@include mq(tabletp) {
-		border-left-width: 3px;
+		border-left-width: 1px;
 		padding: 15px 0 15px 30px;
-		font-size: $blockquote-medium;
+		font-size: $blockquote-small;
 	}
 
 	@include mq(laptop) {
-		border-left-width: 4px;
-		padding: 20px 0 20px 40px;
-		font-size: $blockquote-large;
+		border-left-width: 1px;
+		padding: 4px 0 4px 40px;
+		font-size: $blockquote-small;
 	}
 
 	p {
@@ -198,13 +204,14 @@ blockquote {
 		font-weight: $blockquote-weight;
 		letter-spacing: $blockquote-spacing;
 		line-height: $blockquote-lineheight;
+		font-style: italic;
 
 		@include mq(tabletp) {
-			font-size: $blockquote-medium;
+			font-size: $blockquote-small;
 		}
 
 		@include mq(laptop) {
-			font-size: $blockquote-large;
+			font-size: $blockquote-small;
 		}
 	}
 }
@@ -310,7 +317,7 @@ hr {
 	background: $background-alt-color;
 }
 
-::selection 	 { background: $accent-color; color: $background-color; }
+::selection { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
 

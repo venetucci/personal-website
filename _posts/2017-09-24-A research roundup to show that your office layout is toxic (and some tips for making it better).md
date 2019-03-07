@@ -1,6 +1,6 @@
 ---
 label: ''
-date: 2019-03-06 10:19:15 -0800
+date: 2017-09-24 10:19:15 -0800
 
 ---
 ![](https://cdn-images-1.medium.com/max/2600/1*1VK771RsnnH-cHIv_nTMvA.png)Apple’s new office layout has been described as “[programmer hell](https://twitter.com/galaxykate/status/891348106691960832?lang=en)”. The research backs up this sentiment.
@@ -13,7 +13,7 @@ Everyone seemed so bought into the hype about how open layouts create transparen
 
 So when I’d have a hard time focusing, I’d tell myself that I just had to try harder. When a coworker would tell me how great it is to be able to randomly tap anyone on the shoulder, I’d nod quietly and retreat to my headphones. I convinced myself that wanting to be able to focus on my work somehow made me less collaborative.
 
-**I thought that I needed to embrace the constant interruptions as a source of creativity.**
+I thought that I needed to embrace the constant interruptions as a source of creativity.
 
 But just because the goals are noble doesn’t mean that open office plans are the correct solution. Open layouts are objectively making us less happy, less productive, and more sick.
 
@@ -21,7 +21,7 @@ In fact, overwhelming evidence points to open offices being detrimental on every
 
 The longstanding belief that open offices foster better informal interactions and collaboration doesn’t hold up under scrutiny. Rather, studies show that open layouts result in shorter and lower quality discussions than in closed layouts. This is in addition to the detrimental effect of constant distraction.
 
-**It seems that physical openness does not equal cultural openness.**
+It seems that physical openness does not equal cultural openness.
 
 All in all, there just isn’t any strong evidence to support the oft-touted benefits of open offices. When you feel overstimulated, unfocused, or frustrated at work, it’s important to remember that it’s not a personal failing on your part.
 
@@ -48,7 +48,7 @@ I hope this research allows you to advocate for better work environments. For fu
 
 _Kimball International by the_ [_BOSTI Associates_](http://www.bosti.com/)_, 2001_
 
-#### **Summary**
+#### Summary
 
 BOSTI specializes in analyzing businesses and [strategically implementing workplace solutions](https://www.researchgate.net/publication/248708306_Disproving_widespread_myths_about_workplace_design#pf9) to match needs of employees and businesses. Their research is [rigorous and based on objective methodologies](https://www.researchgate.net/publication/248708306_Disproving_widespread_myths_about_workplace_design#pfa). It was conducted with 13,000 workplace users spanning various industries.
 
@@ -74,7 +74,7 @@ _![](https://cdn-images-1.medium.com/max/1600/1*tWeEWiVY7WD4SoNlvNbH-A.png)This 
 
 _Asia Pacific Journal of Health Management, 2008_
 
-#### **Summary**
+#### Summary
 
 This paper is a large scale literature review which overwhelmingly shows that open office plans are negative.
 
@@ -86,7 +86,7 @@ This review was also referred in a variety of articles, like [The Scientific Ame
 
 _Journal of Applied Psychology, 2000_
 
-#### **Summary**
+#### Summary
 
 This study was conducted with 40 clerical workers, divided into two groups. Individuals in both groups were asked to complete basic office clerical tasks during a 3-hour time period. This was followed by the opportunity to solve puzzles.
 
@@ -105,7 +105,7 @@ Chronically elevated epinephrine is a risk factor for heart disease. Hence, the 
 
 _Journal of Environmental Psychology, 2013_
 
-#### **Summary**
+#### Summary
 
 This study is interesting because the authors didn’t actually plan to study open offices going in. They were looking for information on worker satisfaction with office temperatures.
 
@@ -123,7 +123,7 @@ _![](https://cdn-images-1.medium.com/max/1600/1*Fi3Mf0NtJGXbQgYmsBBkOA.png)Mean 
 
 _Environmental Design Research Association (EDRA), 2002_
 
-#### **Summary**
+#### Summary
 
 This study followed employees of a large oil and gas company as their workplace transitioned from a “traditional office” to an open one. Surveys were conducted before the transition, 4 weeks after, and six months after. Researchers tracked satisfaction with surroundings, stress levels, job performance, and interpersonal relationships.
 
@@ -133,27 +133,27 @@ Even with the longer adjustment period, employees showed negative results on eve
 
 _Harvard Business Review, 2011_
 
-**Read it:** [Full article](https://hbr.org/2011/07/who-moved-my-cube)
+Read it: [Full article](https://hbr.org/2011/07/who-moved-my-cube)
 
 Here’s an [infographic](https://hbr.org/resources/images/article_assets/hbr/1107/R1107H_A_lg.gif) on some of the high level points
 
-#### **Summary**
+#### Summary
 
 The authors spent the past 12 years conducting nine studies about the effects of design on workplace interactions. These included original research and extensive literature reviews. Overall, they found that workspaces encourage quality interactions when they exhibit a balance of the three Ps: **proximity**, **privacy**, and **permission**.
 
-#### **Proximity**
+#### Proximity
 
 There is evidence that decreased physical proximity results in less frequent interactions between coworkers. But it’s not as easy as just putting people closer together. Thomas Allen, organizational psychology professor at MIT, found that the “social geography” of a space was the most important determinant of quality informal interactions.
 
 Instead of focusing on physical centrality, he suggests organizing office layouts to give employees easy access to functional spaces. Such places could be entrances, elevators, photocopiers, and coffee machines, where informal interactions can take place.
 
-#### **Privacy**
+#### Privacy
 
 This is the point that really flies in the face of accepted open office lore — in order to have higher quality, more frequent informal interactions, workers need to have confidence that they won’t be overheard. Workplaces that allow workers “to control others’ access to \[themselves\] so that \[they\] can choose whether or not to interact” are the only ones where truly informal interactions can flourish.
 
 One idea to improve privacy is the concept of an alcove. This can allow people to easily move conversations that started out in the open into a more private space.
 
-#### **Permission**
+#### Permission
 
 Often, if a workplace doesn’t actively specify it, informal chats over coffee are seen as unproductive and employees will avoid them. Companies that encourage this behavior see a rise in quality informal interactions. For instance, Zappos actively encourages managers to spend 20% of their time on socializing and team building.
 
@@ -165,7 +165,7 @@ The article goes on to discuss how to balance these three principles in order to
 
 _National Bureau of Economic Research, 2013_
 
-#### **Summary**
+#### Summary
 
 A Chinese travel website called CTrip ran an experiment for 9 months. During this experiment, they gave their call center employees the option to work from home. Half of them remained in the office as a control group.
 
@@ -183,7 +183,7 @@ This experiment shows that the common assumption that telecommuters are less pro
 
 _International Review of Industrial and Organizational Psychology, 2011_
 
-#### **Summary**
+#### Summary
 
 This publication was put together by organizational psychologist Matthew Davis. It is a 37-page review of over a hundred studies about office environments. He found that open offices often foster symbolic cohesion. Many employees reported feeling positively about what they represent.
 
@@ -210,7 +210,7 @@ A couple of useful passages —
 
 _Scandinavian Journal of Work, Environment, and Health, 2011_
 
-#### **Summary**
+#### Summary
 
 This report’s authors aimed to study any differences in absences due to sickness — between employees working in open office plans and those in single-occupancy spaces.
 
@@ -229,7 +229,7 @@ The study authors acknowledge that the surveys can only show correlation, but re
 
 _SIGCHI Conference on Human Factors in Computing Systems, 2008_
 
-#### **Summary**
+#### Summary
 
 This study wanted to measure the disruption cost of interruptions. It also wanted to measure possible differences in disruption costs on different personality types. The goal was to use the findings to inform better system design and help people manage interruptions more effectively. One type of disruption cost is the time it takes to reorient back to the task at hand after an interruption.
 
@@ -245,7 +245,7 @@ The report ends with some recommended next steps in systems design. One suggesti
 
 _Journal of Experimental Psychology, 2014_
 
-#### **Summary**
+#### Summary
 
 This study took 300 volunteers and asked them to complete a complicated computer task. This task required them to constantly remember where they were in a sequence.
 
@@ -257,7 +257,7 @@ The most disturbing finding was that while participants were distracted and maki
 
 _Environmental Design Research Association, 1982_
 
-#### **Summary**
+#### Summary
 
 I added this report not only because it’s a good study, but because it dates back to the early 1980s. It shows that we’ve known how detrimental open offices are from the start.
 
@@ -292,7 +292,7 @@ In fact, “no evidence was found to support the claim that open-planning leads 
 
 _The Academy of Management Journal, 1980_
 
-#### **Summary**
+#### Summary
 
 This is another study dating back to the early 1980s, showing just how long research into open office plans has existed. This report covers three studies that look at the relationships between physical and psychological privacy, job satisfaction, and employee performance. Special attention was paid to the difference between more complex jobs and routine jobs like secretarial work.
 
