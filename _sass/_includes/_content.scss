@@ -169,7 +169,7 @@
 		box-shadow: 0 30px 75px -15px rgba(50,50,93,0.3), 0 25px 40px -20px rgba(0,0,0,0.1);
 
 		thead {
-			background: $background-alt-color;
+			background: #E7F7F5;
 			color: $text-dark-color;
 			text-align: left;
 			font-weight: $bold-weight;
@@ -193,6 +193,7 @@
 			@include mq(laptop) {
 				padding: 20px;
 				font-size: $p-large;
+				line-height: 1.6;
 			}
 		}
 
