@@ -252,31 +252,31 @@
 #alice-1 {
 	position: fixed;
   display: none;
-  height: 100px;
-	margin-top: -126px;
+  height: 70px;
+	margin-top: -100px;
 	margin-left: -12px;
 }
 
 #alice-2 {
 	position: fixed;
   display: none;
-  height: 100px;
-	margin-top: -126px;
+	height: 70px;
+	margin-top: -100px;
 	margin-left: -5px;
 }
 
 #alice-3 {
 	position: fixed;
   display: none;
-  height: 100px;
-	margin-top: -126px;
+	height: 70px;
+	margin-top: -100px;
 }
 
 #alice-4 {
 	position: fixed;
   display: none;
-  height: 100px;
-	margin-top: -126px;
+	height: 70px;
+	margin-top: -100px;
 	margin-left: -20px;
 }
 
@@ -295,8 +295,6 @@
 .menu__list__item:hover #alice-4 {
 	display: block;
 }
-
-
 
 .menu__button {
 	margin-top: 15px;
