@@ -1,4 +1,4 @@
-site: Duet Jekyll Theme
+site: Michelle's Personal Website
 
 collections:
   pages:
@@ -41,7 +41,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -59,4 +59,3 @@ grid_columns:
   two: Two
   three: Three
   four: Four
-  
