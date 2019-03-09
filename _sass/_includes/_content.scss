@@ -247,50 +247,44 @@
 }
 
 .error-image {
-	display:none;
+	display: none;
 
 	@include mq(tabletp) {
 		display:inline;
-		width: 40%;
 		margin-left: 10%;
-		float: left;
 	}
 
 	@include mq(tabletl) {
-		display:inline;
-		width: 40%;
+		display: inline;
 		margin-left: 10%;
-		float: left;
 	}
 
 	@include mq(laptop) {
-		display:inline;
-		width: 20%;
+		display: inline;
 		margin-left: 25%;
-		float: left;
 	}
 }
 
 .error-text {
 
 	@include mq(tabletp) {
-		position:absolute;
-		bottom: 7%;
-    right: -4%;
+		position: absolute;
+		bottom: 4%;
+    right: 1%;
     width: 80%;
 	}
 
 	@include mq(tabletl) {
-		position:absolute;
-		bottom: 7%;
-    right: -4%;
+		position: absolute;
+		bottom: 4%;
+    right: 1%;
     width: 80%;
 	}
 
 	@include mq(laptop) {
-		position:absolute;
-		bottom: 9%;
-		right: 24%;
+		position: absolute;
+		bottom: 16%;
+		right: 21%;
 		width: 50%;
 	}
 }
