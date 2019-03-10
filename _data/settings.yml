@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Reading'
       url: '/reading-list'
     - title: 'Blog'
-      url: '/blog'
+      url: '/blog/'
 
 footer_settings:
   logo_image:
