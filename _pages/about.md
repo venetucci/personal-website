@@ -34,3 +34,11 @@ These are little threads that I like to pull at. The notes below aren't meant to
 * Open offices
 * Flat hierarchies
 * Open networks (social media, twitter)
+
+Favorite reading in this area: 
+
+[The Tyranny of Structurelessness](http://struggle.ws/pdfs/tyranny.pdf) by Jo Freeman, 1972
+
+[The Proper Copy](https://anthropology.berkeley.edu/sites/default/files/proper_copy_jce_2010.pdf) by Cori Hayden, 2010
+
+[Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
