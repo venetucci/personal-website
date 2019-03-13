@@ -28,6 +28,8 @@ These are little threads that I like to pull at. The notes below aren't meant to
 
 ### Openness as a response to gatekeeping or injustice
 
+When specific abstract concepts like egalitarianism, openness, collaboration, and connection become synonymous with specific physical spaces or interactions and activities.
+
 * Open source
 * Open offices
 * Flat hierarchies
@@ -40,3 +42,5 @@ Favorite reading in this area:
 [The Proper Copy](https://anthropology.berkeley.edu/sites/default/files/proper_copy_jce_2010.pdf) by Cori Hayden, 2010
 
 [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
+
+### The importance of quietness, privacy
