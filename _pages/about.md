@@ -1,8 +1,6 @@
 ---
 title: Michelle is interested in the myths and mechanisms of new technologies in society
-"<!-- subtitle": Duet is a beautiful Jekyll portfolio theme designed to showcase your
-  work in style. Perfect for designers, artists, photographers and developers to use
-  for their portfolio website. -->
+"<!-- subtitle": ''
 description: About Michelle
 featured_image: ''
 published: false
