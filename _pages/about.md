@@ -26,7 +26,7 @@ This is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site hosted
 
 These are little threads that I like to pull at. The notes below aren't meant to be comprehensive or necessarily comprehensible, and may change over time. 
 
-### Openness as a response to gatekeeping or injustice
+### Openness as a response to gatekeeping or perceived injustice
 
 When specific abstract concepts like egalitarianism, openness, collaboration, and connection become synonymous with specific physical spaces or interactions and activities.
 
@@ -44,3 +44,5 @@ Favorite reading in this area:
 [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
 
 ### The importance of quietness, privacy
+
+### Technocracy and the Tech Industry
