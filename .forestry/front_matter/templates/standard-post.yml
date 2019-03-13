@@ -11,7 +11,3 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-pages:
-- _posts/A research roundup to show that your office layout is toxic (and some tips
-  for making it better).md
-- _posts/Designing better avatars.md

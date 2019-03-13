@@ -1,10 +1,11 @@
 ---
 title: Michelle is interested in the myths and mechanisms of new technologies in society
-<!-- subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work
-  in style. Perfect for designers, artists, photographers and developers to use for
-  their portfolio website. -->
+"<!-- subtitle": Duet is a beautiful Jekyll portfolio theme designed to showcase your
+  work in style. Perfect for designers, artists, photographers and developers to use
+  for their portfolio website. -->
 description: About Michelle
 featured_image: ''
+published: false
 
 ---
 As an undergraduate studying anthropology and urban planning, I was interested in exploring how individual health and wellbeing is often determined by food landscapes, physical surroundings, and access to transportation. As a product designer working on contemporary tech products, I strive to apply these frameworks to the digital products we create. I’m interested in how humans move through digital experiences, and how these experiences can augment, harm, or otherwise influence an individual’s non-digital life. As an extension, I'm interested in identifying the underlying cultural and economic mechanisms of the tech industry itself, and exploring how this impacts the products we create and the values and wellbeing of consumers who use these products, as well as society as a whole.
@@ -22,3 +23,14 @@ I’m primarily interested in the cultural mechanisms of the tech industry, the 
 ## Site setup
 
 This is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>, with a <a href="https://forestry.io/" target="_blank">Forestry</a> integration to make updates seamless and simple. You can view the source code <a href="https://github.com/venetucci/personal-website" target="_blank">here</a>.
+
+## Areas of interest
+
+These are little threads that I like to pull at. The notes below aren't meant to be comprehensive or necessarily comprehensible, and may change over time. 
+
+### Openness as a response to gatekeeping or injustice
+
+* Open source
+* Open offices
+* Flat hierarchies
+* Open networks (social media, twitter)
