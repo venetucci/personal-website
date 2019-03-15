@@ -11,16 +11,6 @@ As a designer at Thoughtbot, I worked with startups to build out their MVP web a
 
 I’m primarily interested in the cultural mechanisms of the tech industry, the ethical impacts of ICTs, and the ways these two topics are unequivocally interconnected.
 
-## Contact
-
-<a href="mailto:michelle.ann.harvey@gmail.com">Email</a>  
-<a href="https://github.com/venetucci" target="_blank">GitHub</a><br>
-<a href="https://twitter.com/mvenetucci" target="_blank">Twitter</a>
-
-## Site setup
-
-This is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>, with a <a href="https://forestry.io/" target="_blank">Forestry</a> integration to make updates seamless and simple. You can view the source code <a href="https://github.com/venetucci/personal-website" target="_blank">here</a>.
-
 ## Areas of interest
 
 These are little threads that I like to pull at. The notes below aren't meant to be comprehensive or necessarily comprehensible, and may change over time.
@@ -61,3 +51,12 @@ Favorite reading in this area:
 ### Colonialism and Computing
 
 [Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
+
+## Contact
+
+<a href="mailto:michelle.ann.harvey@gmail.com">Email</a>  
+<a href="[https://github.com/venetucci](https://github.com/venetucci "https://github.com/venetucci")" target="_blank">GitHub</a><br> <a href="[https://twitter.com/mvenetucci](https://twitter.com/mvenetucci "https://twitter.com/mvenetucci")" target="_blank">Twitter</a>
+
+## Site setup
+
+This is a <a href="[https://jekyllrb.com/](https://jekyllrb.com/ "https://jekyllrb.com/")" target="_blank">Jekyll</a> site hosted by <a href="[https://pages.github.com/](https://pages.github.com/ "https://pages.github.com/")" target="_blank">GitHub Pages</a>, with a <a href="[https://forestry.io/](https://forestry.io/ "https://forestry.io/")" target="_blank">Forestry</a> integration to make updates seamless and simple. You can view the source code <a href="[https://github.com/venetucci/personal-website](https://github.com/venetucci/personal-website "https://github.com/venetucci/personal-website")" target="_blank">here</a>.
