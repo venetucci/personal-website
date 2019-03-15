@@ -46,6 +46,8 @@ Favorite reading in this area:
 
 ### The importance of quietness, privacy, thought before action
 
+[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
+
 ### Technocracy and the Tech Industry
 
 [Technopoly](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) by Neil Postman, 1993 ([my extensive notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md))
