@@ -31,7 +31,6 @@ h1, h2, h3, h4, h5, h6 {
 
 	a {
 		color: $text-dark-color;
-		font-weight: $bold-weight;
 		@include transition(all 0.15s ease-in-out);
 		border-bottom: 1px solid currentColor;
 	  display: inline-block;
@@ -62,6 +61,10 @@ h1, .h1 {
 	@include mq(laptop) {
 		font-size: $h1-large;
 	}
+
+	a {
+		font-weight: $h1-weight;
+	}
 }
 
 h2, .h2 {
@@ -78,6 +81,10 @@ h2, .h2 {
 
 	@include mq(laptop) {
 		font-size: $h2-large;
+	}
+
+	a {
+		font-weight: $h2-weight;
 	}
 }
 
