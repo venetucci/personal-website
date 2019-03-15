@@ -17,7 +17,7 @@ These are little threads that I like to pull at. The notes below aren't meant to
 
 ### Openness as a response to gatekeeping or perceived injustice
 
-When specific abstract concepts like egalitarianism, openness, collaboration, and connection become synonymous with specific physical spaces or interactions and activities. This is a common foundational belief present in spaces and activities like:
+I'm interested in looking at the convergence of specific abstract concepts like egalitarianism, openness, collaboration, and connection with specific physical spaces or interactions and activities. As is often the case, even though these spaces and activities come to superficially represent egalitarianism or collaboration and are constantly held up as examples of social profess, they often fail to actually manifest this. The ambiguity that results in these "open" and "equal" spaces further obfuscates the very real, still existing power structures present, and often make it harder to identify, acknowledge, and fix inequalities in the system. This is a common foundational belief and outcome present in spaces and activities like:
 
 * Open source software
 * Open office layouts
