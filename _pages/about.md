@@ -58,8 +58,11 @@ If everything is a myth, we can start looking at the ruptures between the myth a
 
 ## Contact
 
-<a href="mailto:michelle.ann.harvey@gmail.com">Email</a>  
-<a href="[https://github.com/venetucci](https://github.com/venetucci "https://github.com/venetucci")" target="_blank">GitHub</a><br> <a href="[https://twitter.com/mvenetucci](https://twitter.com/mvenetucci "https://twitter.com/mvenetucci")" target="_blank">Twitter</a>
+[Email](mailto:michelle.ann.harvey@gmail.com)
+
+[GitHub](https://github.com/venetucci)
+
+[Twitter](https://twitter.com/mvenetucci)
 
 ## Site setup
 
