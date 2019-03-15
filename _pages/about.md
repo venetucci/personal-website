@@ -44,13 +44,17 @@ Favorite reading in this area:
 
 [Birth as an American Right of Passage](https://www.amazon.com/dp/B007FRK2DG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Robbie Davis-Floyd, 1992
 
-### Everything is a myth - what's actually functional?
+### Everything is a myth
+
+If everything is a myth, we can start looking at the ruptures between the myth and our lived reality to better understand the structures we're operating under. For example: if open offices are so bad for businesses and humans, what myths are compelling their existence, and who benefits from their continued use?
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) by Joseph Campbell, 1988
 
 ### Colonialism and Computing
 
 [Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
+
+### "Data driven, objective" thinking vs. qualitative thought
 
 ## Contact
 
