@@ -48,4 +48,14 @@ Favorite reading in this area:
 
 ### Technocracy and the Tech Industry
 
+[Technopoly](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) by Neil Postman, 1993 ([my extensive notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md))
+
+[Birth as an American Right of Passage](https://www.amazon.com/dp/B007FRK2DG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Robbie Davis-Floyd, 1992
+
 ### Everything is a myth - what's actually functional?
+
+[The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) by Joseph Campbell, 1988
+
+### Colonialism and Computing
+
+[Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
