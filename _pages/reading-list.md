@@ -5,11 +5,9 @@ description: This is where I track books and other things I read
 featured_image: ''
 
 ---
-These are books and papers that I found some sort of value out of reading this year. I ✨ my favorites at the end of a year, and try to record author identity metrics (♂ ♀ 🔹 🔸). I sometimes forget to update this, and sometimes I take notes, link to source material, or otherwise provide more context in a link below.
+These are books and papers that I found some sort of value out of reading this year. I ✨ my favorites at the end of a year, and try to record author identity metrics (♂ ♀ 🔹 🔸). I sometimes forget to update this, and sometimes I take notes, link to source material, or otherwise provide more context in a link below. [Historically I tracked this on GitHub.](https://github.com/venetucci/book-notes)
 
 Past list: <a href="/reading-list-2018">2018</a>
-
-[Historical tracking on GitHub](https://github.com/venetucci/book-notes)
 
 | Michelle's open source notes |
 | --- |
