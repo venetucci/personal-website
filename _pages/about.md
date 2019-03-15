@@ -47,3 +47,5 @@ Favorite reading in this area:
 ### The importance of quietness, privacy
 
 ### Technocracy and the Tech Industry
+
+### Everything is a myth - what's actually functional?
