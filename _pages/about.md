@@ -17,7 +17,7 @@ These are little threads that I like to pull at. The notes below aren't meant to
 
 ### Openness as a response to gatekeeping or perceived injustice
 
-I'm interested in looking at the convergence of specific abstract concepts like egalitarianism, openness, collaboration, and connection with specific physical spaces or interactions and activities. As is often the case, even though these spaces and activities come to superficially represent egalitarianism or collaboration and are constantly held up as examples of social progress, they often fail to actually manifest this. 
+I'm interested in looking at the convergence of specific abstract concepts like egalitarianism, openness, collaboration, and connection with specific physical spaces or interactions and activities. As is often the case, even though these spaces and activities come to superficially represent egalitarianism or collaboration and are constantly held up as examples of social progress, they often fail to actually manifest this.
 
 The ambiguity that results in these "open" and "equal" spaces further obfuscates the very real, still existing power structures present, and often make it harder to identify, acknowledge, and fix inequalities in the system. As an added component, these abstract concepts are often used to raise the socially progressive image of a company's activities, while often not achieving the actual social value and instead helping the company maintain or grow its power and wealth. This is a common foundational belief and outcome present in spaces and activities like:
 
@@ -25,6 +25,7 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 * Open office layouts
 * Flat hierarchies
 * Open networks (social media, ex. twitter)
+* The tech industry (disruption, moving fast, etc)
 
 Favorite reading in this area:
 
