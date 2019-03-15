@@ -66,4 +66,4 @@ If everything is a myth, we can start looking at the ruptures between the myth a
 
 ## Site setup
 
-This is a <a href="[https://jekyllrb.com/](https://jekyllrb.com/ "https://jekyllrb.com/")" target="_blank">Jekyll</a> site hosted by <a href="[https://pages.github.com/](https://pages.github.com/ "https://pages.github.com/")" target="_blank">GitHub Pages</a>, with a <a href="[https://forestry.io/](https://forestry.io/ "https://forestry.io/")" target="_blank">Forestry</a> integration to make updates seamless and simple. You can view the source code <a href="[https://github.com/venetucci/personal-website](https://github.com/venetucci/personal-website "https://github.com/venetucci/personal-website")" target="_blank">here</a>.
+This is a [Jekyll](https://jekyllrb.com/) site hosted by [GitHub Pages](https://pages.github.com/), with a [Forestry](https://forestry.io/) integration to make updates seamless and simple. You can view the source code [here](https://github.com/venetucci/personal-website).
