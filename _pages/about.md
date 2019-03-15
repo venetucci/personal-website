@@ -1,5 +1,5 @@
 ---
-title: Michelle is interested in the myths and mechanisms of new technologies in society
+title: Michelle is interested in the myths and mechanisms of new technologies
 "<!-- subtitle": ''
 description: About Michelle
 featured_image: ''
