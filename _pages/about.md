@@ -23,18 +23,18 @@ This is a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site hosted
 
 ## Areas of interest
 
-These are little threads that I like to pull at. The notes below aren't meant to be comprehensive or necessarily comprehensible, and may change over time. 
+These are little threads that I like to pull at. The notes below aren't meant to be comprehensive or necessarily comprehensible, and may change over time.
 
 ### Openness as a response to gatekeeping or perceived injustice
 
-When specific abstract concepts like egalitarianism, openness, collaboration, and connection become synonymous with specific physical spaces or interactions and activities.
+When specific abstract concepts like egalitarianism, openness, collaboration, and connection become synonymous with specific physical spaces or interactions and activities. This is a common foundational belief present in spaces and activities like:
 
-* Open source
-* Open offices
+* Open source software
+* Open office layouts
 * Flat hierarchies
-* Open networks (social media, twitter)
+* Open networks (social media, ex. twitter)
 
-Favorite reading in this area: 
+Favorite reading in this area:
 
 [The Tyranny of Structurelessness](http://struggle.ws/pdfs/tyranny.pdf) by Jo Freeman, 1972
 
