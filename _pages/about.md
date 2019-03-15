@@ -25,7 +25,7 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 * Open office layouts
 * Flat hierarchies
 * Open networks (social media, ex. twitter)
-* The tech industry (disruption, moving fast, etc)
+* The tech industry (disruption theory, moving fast, etc)
 
 Favorite reading in this area:
 
