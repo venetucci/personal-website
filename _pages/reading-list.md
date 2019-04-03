@@ -18,9 +18,10 @@ Past list: <a href="/reading-list-2018">2018</a>
 | Keith Haring, The Political Line | by Dieter Buchhart, Julian Cox, Robert Farris Thompson, Julian Myers-Szupinska | Nonfiction |  |
 | Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor | by Virginia Eubanks 🔸♀ | Nonfiction |  |
 | Coming of Age in Second Life | Tom Boellstorff 🔸♂ | Nonfiction |  |
-| Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC) | by Sherine Hamdy 🔹♀, Coleman Nye 🔸♀, Sarula Bao 🔹♀, Caroline Brewer 🔹♀ | Ethnographic fiction | More information |
+| Lissa: A Story about Medical Promise, Friendship, and Revolution (ethnoGRAPHIC) | by Sherine Hamdy 🔹♀, Coleman Nye 🔸♀, Sarula Bao 🔹♀, Caroline Brewer 🔹♀ | Ethnographic fiction | [More information](http://lissagraphicnovel.com/) |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari 🔹♂ | Nonfiction |  |
 | Placing Outer Space: An Earthly Ethnography of Other Worlds | Lisa Messeri 🔸♀ | Nonfiction |  |
+| Educated: A Memoir | Tara Westover 🔸♀ | Nonfiction |  |
 
 | Article title | Author(s) | Year | Link |
 | --- | --- | --- | --- |
