@@ -1,5 +1,5 @@
 ---
-title: 2019 notes on books and other things I'm reading
+title: 2019 Reading Notes
 subtitle: ''
 description: This is where I track books and other things I read
 featured_image: ''
