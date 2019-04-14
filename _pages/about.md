@@ -7,9 +7,7 @@ featured_image: ''
 ---
 As an undergraduate studying anthropology and urban planning, I was interested in exploring how individual health and wellbeing is often determined by food landscapes, physical surroundings, and access to transportation. As a product designer working on contemporary tech products, I strive to apply these frameworks to the digital products we create. I’m interested in how humans move through digital experiences, and how these experiences can augment, harm, or otherwise influence an individual’s non-digital life. As an extension, I'm interested in identifying the underlying cultural and economic mechanisms of the tech industry itself, and exploring how this impacts the products we create and the values and wellbeing of consumers who use these products, as well as society as a whole.
 
-As a designer at Thoughtbot, I worked with startups to build out their MVP web and native apps. I led research and user experience efforts on client projects, along with front-end development work and project management strategies. At Lyft, I worked on the future of ridesharing and led driver earnings and incentive design and research from 2015 to 2017. I currently work on core features for GitHub, the platform that houses most of the world’s code.
-
-I’m primarily interested in the cultural mechanisms of the tech industry, the ethical impacts of ICTs, and the ways these two topics are unequivocally interconnected.
+I will be a PhD student in the [Yale Anthropology department](https://anthropology.yale.edu/) starting in the fall. I’m primarily interested in the cultural mechanisms and myths surrounding the production of technology, the ethical impacts of ICTs, and the ways these two topics are unequivocally interconnected. 
 
 ## Areas of interest
 
