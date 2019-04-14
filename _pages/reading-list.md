@@ -25,12 +25,12 @@ Past list: <a href="/reading-list-2018">2018</a>
 
 | Article title | Author(s) | Year | Link |
 | --- | --- | --- | --- |
-| The arts at Facebook: An aesthetic infrastructure for surveillance capitalism | Fred Turner 🔸♂ | 2018 | PDF |
-| Humanitarian media intervention: infrastructuring in times of forced migration | Sebastian Kubitschko & Tim Schütz | 2017 | PDF |
-| Do Artifacts Have Politics | Langdon Winner | 1986 | PDF |
-| Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication | Susan Leigh Star | 2002 | PDF |
-| The Proper Copy | Cori Hayden 🔸♀ | 2010 | PDF |
+| The arts at Facebook: An aesthetic infrastructure for surveillance capitalism | Fred Turner 🔸♂ | 2018 | [PDF](http://fredturner.stanford.edu/wp-content/uploads/Turner-Art-at-Facebook-Poetics-Preprint.pdf) |
+| Humanitarian media intervention: infrastructuring in times of forced migration | Sebastian Kubitschko & Tim Schütz | 2017 | [PDF](https://www.researchgate.net/publication/317329292_Humanitarian_Media_Intervention_Infrastructuring_in_Times_of_Forced_Migration) |
+| Do Artifacts Have Politics | Langdon Winner | 1986 | [PDF](https://transitiontech.ca/pdf/Winner-Do-Artifacts-Have-Politics-1980.pdf) |
+| Got Infrastructure? How Standards, Categories and Other Aspects of Infrastructure Influence Communication | Susan Leigh Star | 2002 | [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.7523&rep=rep1&type=pdf) |
+| The Proper Copy | Cori Hayden 🔸♀ | 2010 | [PDF](https://anthropology.berkeley.edu/sites/default/files/proper_copy_jce_2010.pdf) |
 | Russian Neoliberal: The Entrepreneurial Ethic and the Spirit of "True Careerism" | Alexei Yurchak | 2003 |  |
-| Agency The Relation between Meaning, Power, and Knowledge | Paul Kockelman 🔸♂ | 2007 | PDF |
-| The Greatest Missions Never Flown: Anticipatory Discourse and the "Projectory" in Technical Communities | Lisa Messeri 🔸♀, Janet Vertesi 🔸♀ | 2015 | PDF |
-| The materiality of the corporation: oil, gas, and corporate social technologies in the remaking of a Russian region | Douglas Rogers | 2012 | PDF |
+| Agency The Relation between Meaning, Power, and Knowledge | Paul Kockelman 🔸♂ | 2007 | [PDF](http://www.sscnet.ucla.edu/anthro/faculty/duranti/reprints/Duranti2007CommentAgency.pdf) |
+| The Greatest Missions Never Flown: Anticipatory Discourse and the "Projectory" in Technical Communities | Lisa Messeri 🔸♀, Janet Vertesi 🔸♀ | 2015 | [PDF](https://www.academia.edu/19054948/The_Greatest_Missions_Never_Flown_Anticipatory_Discourse_and_the_Projectory_in_Technological_Communities) |
+| The materiality of the corporation: oil, gas, and corporate social technologies in the remaking of a Russian region | Douglas Rogers | 2012 | [PDF](https://pdfs.semanticscholar.org/9832/b90aa75e4973e518213ed65ba885e3562fa7.pdf) |
