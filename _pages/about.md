@@ -35,7 +35,7 @@ Favorite reading in this area:
 
 [My research round-up about open offices](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2), 2017
 
-### Individual action rhetoric within structural constraints
+### Individual autonomy rhetoric within structural constraints
 
 ..
 
