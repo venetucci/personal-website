@@ -7,7 +7,7 @@ featured_image: ''
 ---
 As an undergraduate studying anthropology and urban planning, I was interested in exploring how individual health and wellbeing is often determined by food landscapes, physical surroundings, and access to transportation. As a product designer working on contemporary tech products, I became curious about how to apply these frameworks to the digital products humans use on a daily basis. I’m interested in how humans move through digital experiences, and how these experiences can augment, harm, or otherwise influence an individual’s non-digital life. As an extension, I’m primarily interested in the cultural mechanisms and myths surrounding the production of technology, the ethical impacts of ICTs, and the ways these two topics are unequivocally interconnected.
 
-I will be a PhD student in the [Yale Anthropology department](https://anthropology.yale.edu/) starting in the fall. 
+I will be a PhD student in the [Yale Anthropology department](https://anthropology.yale.edu/) starting in the fall.
 
 ## Areas of interest
 
@@ -34,6 +34,10 @@ Favorite reading in this area:
 [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
 
 [My research round-up about open offices](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2), 2017
+
+### Individual action rhetoric within structural constraints
+
+..
 
 ### The importance of quietness, privacy, thought before action
 
