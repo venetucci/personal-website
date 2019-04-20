@@ -41,7 +41,7 @@ Favorite reading in this area:
 
 ### Technocracy and the Tech Industry
 
-Within a technocracy, there is a belief that any technological progress automatically results in social progress. This allows for the production of technology without attention given to consequences, and removes ethical responsibility from the participants creating these technologies. 
+Within a technocracy, there is an underlying and unexamined belief that any technological progress automatically results in social progress. This allows for the production of technology without attention given to consequences, and removes ethical responsibility from the participants creating these technologies. 
 
 [Technopoly](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) by Neil Postman, 1993 ([my extensive notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md))
 
