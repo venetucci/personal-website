@@ -35,15 +35,13 @@ Favorite reading in this area:
 
 [My research round-up about open offices](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2), 2017
 
-### Individual autonomy rhetoric within structural constraints
-
-..
-
 ### The importance of quietness, privacy, thought before action
 
 [Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
 
 ### Technocracy and the Tech Industry
+
+Within a technocracy, there is a belief that any technological progress automatically results in social progress. This allows for the production of technology without attention given to consequences, and removes ethical responsibility from the participants creating these technologies. 
 
 [Technopoly](https://www.collier.sts.vt.edu/1504/pdfs/technopoly-neil-postman.pdf) by Neil Postman, 1993 ([my extensive notes](https://github.com/venetucci/book-notes/blob/master/2018%20notes/Technopoly-notes.md))
 
@@ -60,6 +58,12 @@ If everything is a myth, we can start looking at the ruptures between the myth a
 [Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
 
 ### "Data driven, objective" thinking vs. qualitative thought
+
+..
+
+### Individual autonomy rhetoric within structural constraints
+
+..
 
 ## Contact
 
