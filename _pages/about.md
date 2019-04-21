@@ -55,7 +55,7 @@ If everything is a myth, we can start looking at the ruptures between the myth a
 
 ### Colonialism and Computing
 
-In what ways does the contemporary production of new information and communication technologies embed colonial thinking in their deployment? What kinds of frontier myths are embedded in the discussion around growth and global "connections"? 
+In what ways do new information and communication technologies embed colonial thinking in their production and deployment? What kinds of frontier myths are embedded in the discussion around growth and global "connections"? 
 
 [Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
 
