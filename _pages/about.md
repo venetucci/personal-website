@@ -25,8 +25,6 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 * Open networks (social media, ex. twitter)
 * The tech industry (disruption theory, moving fast, etc)
 
-Favorite reading in this area:
-
 [The Tyranny of Structurelessness](http://struggle.ws/pdfs/tyranny.pdf) by Jo Freeman, 1972
 
 [The Proper Copy](https://anthropology.berkeley.edu/sites/default/files/proper_copy_jce_2010.pdf) by Cori Hayden, 2010
