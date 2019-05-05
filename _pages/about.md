@@ -63,7 +63,7 @@ What happens when you collapse complex human problems into a "quantifiable" metr
 
 #### Individual autonomy rhetoric within structural constraints
 
-..
+The tendency to rely on the idea of individual autonomy within large systems, where change is mostly made through structural adjustments, not individualized tactics. 
 
 ### Contact
 
