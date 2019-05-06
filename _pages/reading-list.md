@@ -34,3 +34,4 @@ Past list: <a href="/reading-list-2018">2018</a>
 | Agency The Relation between Meaning, Power, and Knowledge | Paul Kockelman 🔸♂ | 2007 | [PDF](http://www.sscnet.ucla.edu/anthro/faculty/duranti/reprints/Duranti2007CommentAgency.pdf) |
 | The Greatest Missions Never Flown: Anticipatory Discourse and the "Projectory" in Technical Communities | Lisa Messeri 🔸♀, Janet Vertesi 🔸♀ | 2015 | [PDF](https://www.academia.edu/19054948/The_Greatest_Missions_Never_Flown_Anticipatory_Discourse_and_the_Projectory_in_Technological_Communities) |
 | The materiality of the corporation: oil, gas, and corporate social technologies in the remaking of a Russian region | Douglas Rogers | 2012 | [PDF](https://pdfs.semanticscholar.org/9832/b90aa75e4973e518213ed65ba885e3562fa7.pdf) |
+|Authoritarian and Democratic Technics|Lewis Mumford|1964|[PDF](https://www.collier.sts.vt.edu/engl4874/pdfs/mumford_1964.pdf)|
