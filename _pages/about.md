@@ -1,6 +1,6 @@
 ---
 title: Michelle is interested in the myths and mechanisms of new technologies
-description: About Michelle
+description: Michelle is interested in the myths and mechanisms surrounding the production of technology and the ethical impacts of emerging information and communications technologies.
 featured_image: '/images/alice_no.png'
 
 ---
