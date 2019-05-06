@@ -1,7 +1,9 @@
 ---
 title: Michelle is interested in the myths and mechanisms of new technologies
-description: Michelle is interested in the myths and mechanisms surrounding the production of technology and the ethical impacts of emerging information and communications technologies.
-featured_image: '/images/alice_no.png'
+description: Michelle is interested in the myths and mechanisms surrounding the production
+  of technology and the ethical impacts of emerging information and communications
+  technologies.
+featured_image: "/images/alice_no.png"
 
 ---
 As an undergraduate studying anthropology and urban planning, I was interested in exploring how individual health and wellbeing is often determined by food landscapes, physical surroundings, and access to transportation. As a product designer working on contemporary tech products, I became curious about how to apply these frameworks to the digital products humans use on a daily basis. I’m interested in how humans move through digital experiences, and how these experiences can augment, harm, or otherwise influence an individual’s non-digital life. As an extension, I’m primarily interested in the cultural mechanisms and myths surrounding the production of technology, the ethical impacts of ICTs, and the ways these two topics are unequivocally interconnected.
@@ -34,7 +36,7 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 
 #### The importance of quietness, privacy, thought before action
 
-[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))w
+[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
 
 #### Technocracy and the Tech Industry
 
