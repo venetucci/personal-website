@@ -34,10 +34,6 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 
 [My research round-up about open offices](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2), 2017
 
-#### The importance of quietness, privacy, thought before action
-
-[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
-
 #### Technocracy and the Tech Industry
 
 Within a technocracy, there is an underlying and unexamined belief that any technological progress automatically results in social progress. This allows for the production of technology without attention given to consequences, and removes ethical responsibility from the participants creating these technologies.
@@ -69,6 +65,10 @@ What happens when you collapse complex human problems into a "quantifiable" metr
 #### Individual autonomy rhetoric within structural constraints
 
 The tendency to rely on or only advocate for the idea of individual autonomy as a solution to structural problems, where change is mostly made through structural adjustments, not individualized tactics.
+
+#### The importance of quietness, privacy, thought before action
+
+[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
 
 ### Contact
 
