@@ -46,6 +46,8 @@ Within a technocracy, there is an underlying and unexamined belief that any tech
 
 [Birth as an American Right of Passage](https://www.amazon.com/dp/B007FRK2DG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Robbie Davis-Floyd, 1992
 
+[Authoritarian and Democratic Technics](https://www.collier.sts.vt.edu/engl4874/pdfs/mumford_1964.pdf) by Lewis Mumford, 1964
+
 #### Everything is a myth
 
 If everything is a myth, we can start looking at the ruptures between the myth and our lived reality to better understand the structures we're operating under. For example: if open offices are so bad for businesses and humans, what myths are compelling their existence, and who benefits from their continued use?
