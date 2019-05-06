@@ -2,7 +2,7 @@
 title: 2018 Reading List
 <!-- subtitle: This is my reading list -->
 description: This is where I track books and other things I read
-featured_image: ''
+featured_image: '/images/alice_no.png'
 
 ---
 
