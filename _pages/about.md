@@ -35,7 +35,7 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 
 #### The importance of quietness, privacy, thought before action
 
-[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))
+[Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susan Cain, 2012 ([TED Talk](https://www.ted.com/talks/susan_cain_the_power_of_introverts?language=en))w
 
 #### Technocracy and the Tech Industry
 
@@ -51,11 +51,13 @@ If everything is a myth, we can start looking at the ruptures between the myth a
 
 [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) by Joseph Campbell, 1988
 
-#### Colonialism and Computing
+#### Colonialism, Authoritarianism, and Computing
 
-In what ways do new information and communication technologies embed colonial thinking in their production and deployment? What kinds of frontier myths are embedded in the discussion around growth and global "connections"? How does the deployment of technologies created by people in the West impact the people who access these services in other cultural and economic contexts?
+In what ways do new information and communication technologies embed colonial thinking in their production and deployment? What kinds of frontier myths are embedded in the discussion around growth and global "connections"? How does the deployment of technologies created by people in the West impact the people who access these services in other cultural and economic contexts? What kinds of authoritarian or democratic underpinnings influence how we create and deploy new technologies?
 
 [Postcolonial Computing](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf) by Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip and Rebecca E. Grinter, 2010
+
+[Authoritarian and Democratic Technics](https://www.collier.sts.vt.edu/engl4874/pdfs/mumford_1964.pdf) by Lewis Mumford, 1964
 
 #### "Data driven, objective" thinking vs. qualitative thought
 
