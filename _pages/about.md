@@ -36,7 +36,9 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 
 #### Industry incentive structures → Outcomes
 
-Despite the high level "making the world a better place" claims, the tech industry is largely composed of C-Corp, VC-backed, Wall Street influenced structures. I'm interested in drawing out these connective cultural tissues as a way to examine how they influence the way work is produced and the eventual end outcomes. This opens up space to explore sustainable, structural change and alternative models of technical development. 
+Despite the high level "making the world a better place" claims, the tech industry is largely composed of C-Corp, VC-backed, Wall Street influenced structures. I'm interested in drawing out these connective cultural tissues as a way to examine how they influence the way work is produced and the eventual end outcomes. This opens up space to explore sustainable, structural change and alternative models of technical development.
+
+[Liquidated: An Ethnography of Wall Street](https://www.dukeupress.edu/liquidated) by Karen Ho, 2009
 
 #### Technocracy and the Tech Industry
 
