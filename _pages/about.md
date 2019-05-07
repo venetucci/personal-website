@@ -34,6 +34,10 @@ The ambiguity that results in these "open" and "equal" spaces further obfuscates
 
 [My research round-up about open offices](https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2), 2017
 
+#### Industry incentive structures → Outcomes
+
+Despite the high level "making the world a better place" claims, the tech industry is largely composed of C-Corp, VC-backed, Wall Street influenced structures. I'm interested in drawing out these connective cultural tissues, showing how they define the way work is produced and the eventual end outcomes. This opens up space to explore sustainable, structural change and alternative models of technical development. 
+
 #### Technocracy and the Tech Industry
 
 Within a technocracy, there is an underlying and unexamined belief that any technological progress automatically results in social progress. This allows for the production of technology without attention given to consequences, and removes ethical responsibility from the participants creating these technologies.
