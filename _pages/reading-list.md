@@ -23,6 +23,7 @@ Past list: <a href="/reading-list-2018">2018</a>
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari 🔹♂ | Nonfiction |  |
 | Placing Outer Space: An Earthly Ethnography of Other Worlds | Lisa Messeri 🔸♀ | Nonfiction |  |
 | Educated: A Memoir | Tara Westover 🔸♀ | Nonfiction |  |
+| Liquidated | Karen Hoe 🔹♀ | Nonfiction |  |
 
 | Article title | Author(s) | Year | Link |
 | --- | --- | --- | --- |
