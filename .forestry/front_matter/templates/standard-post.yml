@@ -11,3 +11,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/Naming Systems.md
