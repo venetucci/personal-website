@@ -8,7 +8,7 @@ featured_image: "/images/alice_no.png"
 ---
 As an undergraduate studying anthropology and urban planning, I was interested in exploring how individual health and wellbeing is often determined by food landscapes, physical surroundings, and access to transportation. As a product designer working on contemporary tech products, I became curious about how to apply these frameworks to the digital products humans use on a daily basis. After working inside the industry and seeing larger impacts and cultural shifts stemming from the integration of new technologies into societal systems, I became more interested in the connection between the myths and rhetoric surrounding technology, the incentive and cultural structures that guide industry activities, and these end outcomes.
 
-I am a first-year PhD student in the [Yale Anthropology department](https://anthropology.yale.edu/).
+I am a PhD student in the [Yale Anthropology department](https://anthropology.yale.edu/).
 
 ### Areas of interest
 
