@@ -12,4 +12,5 @@ fields:
     schema:
       format: markdown
 pages:
+- Culture thoughts.md
 - _posts/Naming Systems.md
