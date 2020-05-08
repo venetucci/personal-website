@@ -1,5 +1,5 @@
 ---
-title: Anthropology of technology
+title: Interests
 description: Michelle is interested in the myths and mechanisms surrounding the production
   of technology and the ethical impacts of emerging information and communications
   technologies.
