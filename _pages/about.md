@@ -16,7 +16,7 @@ STS, anthropology of technology, capitalism, corporate studies, public anthropol
 
 ### Contact
 
-[Email](mailto:michelle.ann.harvey@gmail.com)
+[Email](michelle.venetucci@yale.edu)
 
 [GitHub](https://github.com/venetucci)
 
