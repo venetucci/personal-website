@@ -1,5 +1,5 @@
 ---
-title: Michelle is interested in the myths and mechanisms of new technologies
+title: Anthropology of technology
 description: Michelle is interested in the myths and mechanisms surrounding the production
   of technology and the ethical impacts of emerging information and communications
   technologies.
