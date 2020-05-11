@@ -12,10 +12,6 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Reading'
-      url: '/reading-list'
-    - title: 'Blog'
-      url: '/blog/'
 
 footer_settings:
   logo_image:
