@@ -1,8 +1,7 @@
 ---
 title: About
-description: Michelle is interested in the myths and mechanisms surrounding the production
-  of technology and the ethical impacts of emerging information and communications
-  technologies.
+description: Sociocultural Anthropology with a focus on Science and Technology Studies
+  — PhD Student @ Yale University. Previously GitHub, Lyft.
 featured_image: "/images/alice_no.png"
 
 ---
@@ -16,7 +15,7 @@ STS, anthropology of technology, capitalism, corporate studies, public anthropol
 
 ### Contact
 
-[Email](michelle.venetucci@yale.edu)
+[Email](mailto:michelle.venetucci@yale.edu)
 
 [GitHub](https://github.com/venetucci)
 
