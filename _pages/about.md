@@ -11,7 +11,7 @@ Michelle is a PhD student in anthropology and science & technology studies at Ya
 
 #### Interests
 
-STS, anthropology of technology, corporate studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
+STS, anthropology of technology, corporation studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
 
 ### Contact
 
