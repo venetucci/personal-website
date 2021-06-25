@@ -15,11 +15,7 @@ STS, anthropology of technology, corporation studies, public anthropology, histo
 
 ### Contact
 
-[Email](mailto:michelle.venetucci@yale.edu)
-
-[GitHub](https://github.com/venetucci)
-
-[Twitter](https://twitter.com/mvenetucci)
+[Email](mailto:michelle.venetucci@yale.edu) | [GitHub](https://github.com/venetucci) | [Twitter](https://twitter.com/mvenetucci)
 
 ### Site setup
 
