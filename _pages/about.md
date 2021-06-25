@@ -9,6 +9,8 @@ Michelle is a PhD student in anthropology and science & technology studies at Ya
 
 Currently seeking a position in an intern class for summer 2022, more extended work on a product team, or a consulting position. Only interested in Bay Area-based jobs.
 
+See snapshots of her past product design work [here](https://www.michellevenetucci.com).
+
 #### Interests
 
 STS, anthropology of technology, capitalism, corporate studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
