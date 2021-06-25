@@ -13,7 +13,7 @@ See snapshots of her past product design work [here](https://www.michellevenetuc
 
 #### Interests
 
-STS, anthropology of technology, capitalism, corporate studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
+STS, anthropology of technology, corporate studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
 
 ### Contact
 
