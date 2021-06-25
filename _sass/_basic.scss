@@ -327,7 +327,10 @@ hr {
 ::selection { background: $accent-color; color: $background-color; }
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
-
+.float-image {
+	float: left;
+	margin-right: 16px;
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
 
