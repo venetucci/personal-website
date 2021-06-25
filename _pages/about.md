@@ -7,7 +7,7 @@ featured_image: "/images/alice_no.png"
 ---
 Michelle is a PhD student in anthropology and science & technology studies at Yale, with a background as a professional product designer with UX research, frontend development, and project management experience. Research interests include technology company workflows and workplace culture. 
 
-Currently seeking a position in an intern class for summer 2022, more extended work on a product team, or a consulting position. Only interested in Bay Area-based jobs.
+**Currently seeking a position in an intern class for summer 2022, more extended work on a product team, or a consulting position. Only interested in Bay Area-based jobs.**
 
 See snapshots of her past product design work [here](https://www.michellevenetucci.com).
 
