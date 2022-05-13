@@ -229,12 +229,8 @@ a {
 	@include transition(all 0.15s ease-in-out);
 	border-bottom: 1px solid currentColor;
   display: inline-block;
-  line-height: 0.85;
-  text-shadow:
-    1px -1px white,
-    -1px 1px white,
-    0px 0px white,
-    0px 0px white;
+  line-height: 1;
+  text-shadow: none;
 
 	&:hover {
 		color: $accent-color;
