@@ -47,11 +47,14 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
-paginate: 6
-paginate_path: "/blog/page:num/"
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: '/blog/page:num/'
 
 gallery_types:
   carousel: Carousel
