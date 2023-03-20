@@ -3,7 +3,7 @@ title: Selection of past product design work
 description: Design projects
 ---
 
-#### GitHub Design Speculation
+## GitHub Design Speculation
 
 A speculative mobile design of how to improve cross-functional collaboration
 between designers and developers during implementation stages. View

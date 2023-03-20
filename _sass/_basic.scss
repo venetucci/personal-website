@@ -445,3 +445,52 @@ section {
 .single {
 		margin-top: 20px;
 }
+
+// - - - - customizations for photo layouts
+
+.column-3 {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+  }
+
+  .column-2 {
+	float: left;
+	width: 50%;
+	padding: 5px;
+  }
+
+  .neg-margin-bottom-40 {
+	margin-bottom: -40px !important;
+  }
+
+  .neg-margin-bottom-26 {
+	margin-bottom: -26px !important;
+  }
+
+  .neg-margin-top-110 {
+	margin-bottom: -110px !important;
+  }
+
+  .neg-margin-top-40 {
+	margin-top: -40px !important;
+  }
+  
+  .neg-margin-top-30 {
+	margin-top: -30px !important;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+
+  .small-top-margin {
+	margin-top: 5px !important;
+  }
+
+  .small-bottom-margin {
+	margin-bottom: -25px !important;
+  }
