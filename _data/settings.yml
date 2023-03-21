@@ -8,11 +8,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: 'Home.'
       url: '/'
-    - title: 'Fibers'
+    - title: 'Fibers.'
       url: '/fibers'
-    - title: 'Design'
+    - title: 'Design.'
       url: '/design'
 
 footer_settings:

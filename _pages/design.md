@@ -1,7 +1,9 @@
 ---
-title: Selection of past product design work
+title: Design.
 description: Design projects
 ---
+
+Selection of past product design work
 
 ## GitHub Design Speculation
 
