@@ -7,7 +7,6 @@
 .intro {
 	
 	margin-top: 0px;
-    	margin-bottom: 50px;
 
 	h1 {
 
@@ -227,8 +226,8 @@
 	}
 
 	@include mq(laptop) {
-		margin: 40px auto;
-		max-width: 50%;
+		margin: 20px auto;
+		max-width: 60%;
 	}
 
 	&:first-child {

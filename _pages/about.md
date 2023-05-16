@@ -20,3 +20,4 @@ STS, anthropology of technology, corporation studies, public anthropology, histo
 ### Site setup
 
 This is a [Jekyll](https://jekyllrb.com/) site hosted by [GitHub Pages](https://pages.github.com/), with a [Forestry](https://forestry.io/) integration to make updates seamless and simple. You can view the source code [here](https://github.com/venetucci/personal-website).
+
