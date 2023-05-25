@@ -2,8 +2,8 @@
 title: Design.
 description: Design projects
 ---
-
-Selection of past product design work
+<div class="negative-margin"></div>
+Selection of past product design work.
 
 ## GitHub Design Speculation
 

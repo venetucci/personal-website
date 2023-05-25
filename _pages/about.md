@@ -13,9 +13,11 @@ Michelle is a PhD student in anthropology and science & technology studies at Ya
 
 STS, anthropology of technology, corporation studies, public anthropology, historical anthropology, community formation and subversion, subject formation and agency.
 
-### Contact
+<div class="positive-margin">
+<h2>Contactt</h2>
 
 [Email](mailto:michelle.venetucci@yale.edu) / [GitHub](https://github.com/venetucci) / [Twitter](https://twitter.com/mvenetucci)
+</div>
 
 ### Site setup
 
