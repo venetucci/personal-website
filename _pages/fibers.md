@@ -3,7 +3,7 @@ title: Fibers.
 description: Fiber art projects
 ---
 <div class="negative-margin"></div>
-I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I'm currently working an ongoing series of collaborative AI electronic quilts; working out of a hackerspace in San Francisco, a group of us are designing quilts using Stable Diffusion, and then producing them in the sewing room. Our current projects also incorporate circuit hacking and motion sensors. Below is a selection of these projects, with updates over at <a href="https://www.instagram.com/lowtechfibers/">@lowtechfibers</a>.
+I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I'm currently working an ongoing series of collaborative AI electronic quilts; working out of a hackerspace in San Francisco, a group of us are designing quilts using Stable Diffusion, and then producing them in the sewing room. Our current projects also incorporate circuit hacking and motion sensors. Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>.
 
 <img src="/images/fiber_one.jpg" class="spacer center">
 
@@ -69,6 +69,18 @@ We’re using thread and fabric in matching colors as a callback to an embroider
   </div>
   <div class="column-3">
     <img src="/images/smallcomp.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+<div class="row image-wrap">
+  <div class="column-3">
+    <img src="/images/mini_quilt.gif" alt="Snow" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/twist.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/mini_quilt_times_2.gif" alt="Mountains" style="width:100%">
   </div>
 </div>
 
