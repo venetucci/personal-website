@@ -6,11 +6,13 @@ description: Fiber art projects
 
 <img src="/images/fiber_one.jpg" class="spacer center">
 
-I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I've given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace. 
+I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I've given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
 I'm currently working an ongoing series of collaborative AI electronic quilts; working out of a hackerspace in San Francisco, a group of us are designing quilts using Stable Diffusion, and then producing them in the sewing room. Our current projects also incorporate circuit hacking and motion sensors. We were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
 
 Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>. Documentation of Noisebridge projects is in the wiki, <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">here</a>.
+
+Newer projects/skills: risograph printing, punch card looms, weaving, hand-quilting, core rope memory / woven computer systems.
 
 ## From Cyberculture to Fiberculture #1, 2023
 <i>Cotton fabric, cotton batting, invisible thread. Sewn on a domestic sewing machine.</i><br>
