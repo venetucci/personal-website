@@ -8,9 +8,9 @@ description: Fiber art projects
 
 I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I've given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
-I'm currently working an ongoing series of collaborative AI electronic quilts; working out of a hackerspace in San Francisco, a group of us are designing quilts using Stable Diffusion, and then producing them in the sewing room. Our current projects also incorporate circuit hacking and motion sensors. We were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
+I co-created the <a href="https://fybercollective.net/" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. We're currently working an ongoing series of AI-designed textiles that we turn into physical objects. Our current projects also incorporate circuit hacking and motion sensors. We were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
 
-Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>. Documentation of Noisebridge projects is in the wiki, <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">here</a>.
+Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>. Detailed documentation of Fyber Collective projects is in the wiki, <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">here</a>.
 
 Newer projects/skills: risograph printing, punch card looms, weaving, hand-quilting, core rope memory / woven computer systems.
 
@@ -120,7 +120,7 @@ We’re using thread and fabric in matching colors as a callback to an embroider
 
 My great aunt taught me to knit when I was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
 
-<img src="/images/knitting.png" class="spacer center">
+<img src="/images/knitting_projects.jpg" class="spacer center">
 
 
 
