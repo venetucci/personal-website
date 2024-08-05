@@ -3,7 +3,7 @@ title: Design.
 description: Design projects
 ---
 <div class="negative-margin"></div>
-Selection of past product design work.
+Selection of past product design work. Lyft (2015 - 2017), GitHub (2018 - 2019).
 
 ## GitHub Design Speculation
 
