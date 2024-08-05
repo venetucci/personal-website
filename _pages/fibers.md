@@ -6,9 +6,9 @@ description: Fiber art projects
 
 <img src="/images/fiber_one.jpg" class="spacer center">
 
-I work on various fiber projects, mainly focusing on quilting and knitting with natural fibers. I've given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
+Michelle works on various fiber projects, mainly focusing on quilting and knitting with natural fibers. She's given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
-I co-created the <a href="https://fybercollective.net/" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. We're currently working an ongoing series of AI-designed textiles that we turn into physical objects. Our current projects also incorporate circuit hacking and motion sensors. We were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
+She co-created the <a href="https://fybercollective.net/" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. The collective is currently working an ongoing series of AI-designed textiles that they turn into physical objects. Current projects also incorporate circuit hacking and motion sensors. They were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
 
 Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>. Detailed documentation of Fyber Collective projects is in the wiki, <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">here</a>.
 
@@ -43,7 +43,7 @@ On the left: stable diffusion generated quilt design. On the right: the final ph
 <i>Produced by Dr. Emeline Brulé & Michelle Venetucci. Materials include cotton fabric, cotton batting, polyester thread. Sewn using a domestic sewing machine and programmable Singer Futura Quartet embroidery machine. Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT.</i><br>
 <br>
 <div class="negative-margin-small"></div>
-For this project, we used Stable Diffusion to generate images of letters of the alphabet, which were then converted into a vector that was sent to a programmable embroidery machine. 
+For this project, Emeline and Michelle used Stable Diffusion to generate images of letters of the alphabet, which were then converted into a vector that was sent to a programmable embroidery machine. 
 
 <div class="row image-wrap">
   <div class="column-3">
@@ -56,7 +56,7 @@ For this project, we used Stable Diffusion to generate images of letters of the 
     <img src="/images/letter3.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
-We’re using thread and fabric in matching colors as a callback to an embroidery practice called whitework that gradually disappeared over the 20th century, where white embroidery was used on white fabric. We used ChatGPT to come up with a color scheme for the quilt, asking it to suggest colors and a layout inspired by San Francisco. It gave us some colors associated with mechanical components of the city, like the orange of the bridge and cable car red, alongside natural components, like foggy gray and ocean blue. 
+They chose to use thread and fabric in matching colors as a callback to an embroidery practice called whitework that gradually disappeared over the 20th century, where white embroidery was used on white fabric. They used ChatGPT to come up with a color scheme for the quilt, asking it to suggest colors and a layout inspired by San Francisco. It gave them colors associated with mechanical components of the city, like the orange of the bridge and cable car red, alongside natural components, like foggy gray and ocean blue. 
 
 <img src="/images/textilechatgpt.jpg" class="spacer center">
 
@@ -118,7 +118,7 @@ We’re using thread and fabric in matching colors as a callback to an embroider
 ## Selected knitting, 2018-2023
 <i>Cotton and alpaca wool</i><br>
 
-My great aunt taught me to knit when I was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
+Michelle's great aunt taught her to knit when she was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
 
 <img src="/images/knitting_projects.jpg" class="spacer center">
 
