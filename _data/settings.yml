@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     - title: 'Fibers.'
       url: '/fibers'
-    - title: 'Design.'
-      url: '/design'
+    - title: 'Research.'
+      url: '/research'
 
 footer_settings:
   logo_image:
