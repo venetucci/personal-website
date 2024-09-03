@@ -50,8 +50,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500|Lato:300,400,700" rel="stylesheet">'
-  title_font: '"Cormorant Garamond", serif'
-  body_font: '"Lato", sans-serif'
+  title_font: '"Input Sans", monospace;'
+  body_font: '"Input Sans", monospace;'
   light_weight: 300
   regular_weight: 400
   bold_weight: 500
@@ -63,8 +63,8 @@ font_settings:
     letter_spacing: -0.02
   menu:
     small_size: 22
-    medium_size: 25
-    large_size: 22
+    medium_size: 20
+    large_size: 20
     weight: 400
     letter_spacing: 0
   grid_item_title:
@@ -82,14 +82,14 @@ font_settings:
   h1:
     small_size: 22
     medium_size: 25
-    large_size: 35
+    large_size: 30
     weight: 400
     letter_spacing: 0
     line_height: 1.67
   h2:
     small_size: 20
     medium_size: 20
-    large_size: 24
+    large_size: 20
     weight: 300
     letter_spacing: -0.02
     line_height: 1.2
@@ -122,9 +122,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 14
+    small_size: 16
     medium_size: 16
-    large_size: 18
+    large_size: 16
     weight: 300
     letter_spacing: 0
     line_height: 1.6
