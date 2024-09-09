@@ -67,7 +67,9 @@ They chose to use thread and fabric in matching colors as a callback to an embro
 <img src="/images/textilequilt4.jpg" class="spacer center">
 
 ## Cybernetic Collective Quilt (2023)
-<i>Mixed media including cotton fabric, cotton batting, cotton thread, motion sensors, arduino, LED lights, wood glue, particle board. Produced using a sewing machine, programmable embroidery machine, laser cutter, table saw. Designed using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, and ChatGPT.</i>
+A project that splintered into a series of experiments with generative AI models, LEDs, machine knitting, motion sensors, machine embroidery, and quilting. 
+
+<i>Materials and tools: Mixed media including cotton fabric, cotton batting, cotton thread, motion sensors, arduino, LED lights, wood glue, particle board. Produced using a sewing machine, programmable embroidery machine, laser cutter, table saw. Designed using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, and ChatGPT.</i>
 
 <div class="row image-wrap">
   <div class="column-3">
@@ -94,7 +96,7 @@ They chose to use thread and fabric in matching colors as a callback to an embro
 </div>
 
 ## Community Quilting (2023)
-Various community quilting projects, utilizing textiles, woodwork, and electronics. This was organized as a series of ongoing group projects, culminating in showing at a number of arts shows in San Francisco and a traveling quilting bee in August 2024.
+Various community quilting projects, utilizing textiles, woodwork, and electronics. This was organized as a series of ongoing group projects, culminating in showing at a number of events in San Francisco and a traveling quilting bee in August 2023.
 
 <div class="row image-wrap">
   <div class="column-3">
