@@ -4,17 +4,19 @@ description: Fiber art projects
 ---
 <div class="negative-margin"></div>
 
-<img src="/images/fiber_one.jpg" class="spacer center">
+<img src="/images/fiber_top.png" class="spacer center">
 
-Michelle works on various fiber projects, mainly focusing on quilting and knitting with natural fibers. She's given talks or shown pieces at local events in San Francisco, including: Dorkbot 2023, Open Sauce 2023, Medicine for Nightmares Semilla Fest 2023, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
+Michelle works on various fiber projects, mainly focusing on quilting and knitting with natural fibers. She's given talks or shown pieces at local events in San Francisco, including: Dorkbot, Open Sauce, Medicine for Nightmares Semilla Fest, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
-She co-created the <a href="https://fybercollective.net/" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. The collective is currently working an ongoing series of AI-designed textiles that they turn into physical objects, using this as a jumping off point for marking current capabilities of AI and exploring how people in the tech industry narrate and anticipate AI developments. These quilting and embroidery projects also incorporate circuit hacking and woodwork as a way to trouble the constructed delinations between "crafts" and "technology," especially gendered associations that create social hierarchies. By moving between the various workshop spaces at Noisebridge and noting the gender associations that shift between those movements, we explore how these constructed narratives of separation are related to their differential ability to create capital value. Our projects were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
+She co-created the <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. While contemporary notions of programming and computing tend to be associated with men, the group is inspired by histories that show how programming and computing was developed through textile practices that are often associated with women, such as weaving and knitting, and how early programming was often women's work and included physical acts of weaving. Charles Babbage was influenced by 19th century punch cards in jacquard looms, leading to his Analytical Engine.  
 
-Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a> and meta-commentary about these projects on <a href="https://threadsofexecution.substack.com/" target="_blank">Substack</a>. Detailed documentation of Fyber Collective projects is in the Noisebridge wiki, <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">here</a>.
+The collective is currently working an ongoing series of AI-designed textiles that they turn into physical objects, using this as a jumping off point for marking current capabilities of AI and exploring how people in the tech industry narrate and anticipate AI developments. These quilting and embroidery projects also incorporate circuit hacking and woodwork as a way to trouble the constructed delinations between "crafts" and "technology," especially gendered associations that create social hierarchies. By moving between the various workshop spaces at Noisebridge and noting the gender associations that shift between those movements, we explore how these constructed narratives of separation are related to their differential ability to create capital value. Our projects were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
+
+Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a>. 
 
 Newer projects/skills: risograph printing, punch card looms, weaving, hand-quilting, core rope memory / woven computer systems.
 
-## From Cyberculture to Fiberculture #1, 2023
+## From Cyberculture to Fiberculture #1 (2023)
 <i>Cotton fabric, cotton batting, invisible thread. Sewn on a domestic sewing machine.</i><br>
 <br>
 <div class="negative-margin-small"></div>
@@ -39,7 +41,7 @@ On the left: stable diffusion generated quilt design. On the right: the final ph
   </div>
 </div>
 
-## Tenses: Text-to-Textile Quilt (in progress April 2023)
+## Tenses: Text-to-Textile Quilt (2024)
 <i>Produced by Dr. Emeline Brulé & Michelle Venetucci. Materials include cotton fabric, cotton batting, polyester thread. Sewn using a domestic sewing machine and programmable Singer Futura Quartet embroidery machine. Designed and produced using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, ChatGPT.</i><br>
 <br>
 <div class="negative-margin-small"></div>
@@ -47,13 +49,13 @@ For this project, Emeline and Michelle used Stable Diffusion to generate images 
 
 <div class="row image-wrap">
   <div class="column-3">
-    <img src="/images/letter1.jpg" alt="Snow" style="width:100%">
+    <img src="/images/texttotextile.png" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/letter2.jpg" alt="Forest" style="width:100%">
+    <img src="/images/texttotextiledeconstruct.png" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/letter3.jpg" alt="Mountains" style="width:100%">
+    <img src="/images/texttotextileclose.png" style="width:100%">
   </div>
 </div>
 They chose to use thread and fabric in matching colors as a callback to an embroidery practice called whitework that gradually disappeared over the 20th century, where white embroidery was used on white fabric. They used ChatGPT to come up with a color scheme for the quilt, asking it to suggest colors and a layout inspired by San Francisco. It gave them colors associated with mechanical components of the city, like the orange of the bridge and cable car red, alongside natural components, like foggy gray and ocean blue. 
@@ -64,7 +66,7 @@ They chose to use thread and fabric in matching colors as a callback to an embro
 
 <img src="/images/textilequilt4.jpg" class="spacer center">
 
-## Cybernetic Collective Quilt (In progress April 2023)
+## Cybernetic Collective Quilt (2023)
 <i>Mixed media including cotton fabric, cotton batting, cotton thread, motion sensors, arduino, LED lights, wood glue, particle board. Produced using a sewing machine, programmable embroidery machine, laser cutter, table saw. Designed using Inkscape, Ink/Stitch, Singer Futura Quartet software, Stable Diffusion, and ChatGPT.</i>
 
 <div class="row image-wrap">
@@ -91,8 +93,8 @@ They chose to use thread and fabric in matching colors as a callback to an embro
   </div>
 </div>
 
-## Magic Quilt, 2023
-<i>Reflections Quilt pattern by Everyday Stitches. Queen Size, 88”x88”. Piecing and quilting by Michelle using a Husqvarna Viking sewing machine.</i><br>
+## Magic Quilt (2023)
+<i>Michelle works on other quilting and textile projects, which you can view <a href="https://www.instagram.com/lowtechfibers/" target="_blank">here</a>. This is the Reflections Quilt pattern by Everyday Stitches. Queen Size, 88”x88”. Piecing and quilting by Michelle using a Husqvarna Viking sewing machine.</i><br>
 
 <div class="row image-wrap">
   <div class="column-2">
@@ -115,7 +117,7 @@ They chose to use thread and fabric in matching colors as a callback to an embro
   </div>
 </div>
 
-## Selected knitting, 2018-2023
+## Selected knitting (2018-2024)
 <i>Cotton and alpaca wool</i><br>
 
 Michelle's great aunt taught her to knit when she was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
