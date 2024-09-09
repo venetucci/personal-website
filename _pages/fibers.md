@@ -88,10 +88,10 @@ A project that splintered into a series of experiments with generative AI models
     <img src="/images/mini_quilt.gif" alt="Snow" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/twist.jpg" alt="Forest" style="width:100%">
+    <img src="/images/twist.jpg" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/ledframe.mov" alt="Mountains" style="width:100%">
+    <img src="/images/ledwood.gif" style="width:100%">
   </div>
 </div>
 
@@ -111,13 +111,13 @@ Various community quilting projects, utilizing textiles, woodwork, and electroni
 </div>
 <div class="row image-wrap">
   <div class="column-3">
-    <img src="/images/travel-bee.jpeg" alt="Snow" style="width:100%">
+    <img src="/images/travel-bee.jpeg" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/hacking.jpeg" alt="Forest" style="width:100%">
+    <img src="/images/hacking.jpeg" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/opensauce.jpeg" alt="Mountains" style="width:100%">
+    <img src="/images/opensauce.jpeg" style="width:100%">
   </div>
 </div>
 
