@@ -8,7 +8,7 @@ description: Fiber art projects
 
 Michelle works on various fiber projects, mainly focusing on quilting and knitting with natural fibers. She's given talks or shown pieces at local events in San Francisco, including: Dorkbot, Open Sauce, Medicine for Nightmares Semilla Fest, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
-She co-created the <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. While contemporary notions of programming and computing tend to be associated with men, the group is inspired by histories that show how programming and computing was developed through textile practices that are often associated with women, such as weaving and knitting, and how early programming was often women's work and included physical acts of weaving. Charles Babbage was influenced by 19th century punch cards in jacquard looms, leading to his Analytical Engine.  
+She co-created the <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Projects" target="_blank">Fyber Collective</a> with a group of people at Noisebridge Hackerspace in San Francisco. While contemporary notions of programming and computing tend to be associated with men, the group is inspired by histories that show how programming and computing were developed through textile practices that are often associated with women, such as weaving and knitting, and how early programming was often women's work and included physical acts of weaving. For example, Charles Babbage was influenced by 19th century punch cards in jacquard looms, leading to his Analytical Engine.  
 
 The collective is currently working an ongoing series of AI-designed textiles that they turn into physical objects, using this as a jumping off point for marking current capabilities of AI and exploring how people in the tech industry narrate and anticipate AI developments. These quilting and embroidery projects also incorporate circuit hacking and woodwork as a way to trouble the constructed delinations between "crafts" and "technology," especially gendered associations that create social hierarchies. By moving between the various workshop spaces at Noisebridge and noting the gender associations that shift between those movements, we explore how these constructed narratives of separation are related to their differential ability to create capital value. Our projects were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
 
@@ -77,7 +77,7 @@ They chose to use thread and fabric in matching colors as a callback to an embro
     <img src="/images/fiber_two.jpg" alt="Forest" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/smallcomp.jpg" alt="Mountains" style="width:100%">
+    <img src="/images/nb-lights.gif" alt="Mountains" style="width:100%">
   </div>
 </div>
 
@@ -89,7 +89,33 @@ They chose to use thread and fabric in matching colors as a callback to an embro
     <img src="/images/twist.jpg" alt="Forest" style="width:100%">
   </div>
   <div class="column-3">
-    <img src="/images/mini_quilt_times_2.gif" alt="Mountains" style="width:100%">
+    <img src="/images/ledframe.mov" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+## Community Quilting (2023)
+<i>Various community quilting projects, utilizing textiles, woodwork, and electronics. This was organized as a series of ongoing group projects, culminating in showing at a number of arts shows in San Francisco and a traveling quilting bee in August 2024.</i>
+
+<div class="row image-wrap">
+  <div class="column-3">
+    <img src="/images/projects1.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/quiltworkshop.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/bee.jpeg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+<div class="row image-wrap">
+  <div class="column-3">
+    <img src="/images/travel-bee.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/hacking.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column-3">
+    <img src="/images/opensauce.jpeg" alt="Mountains" style="width:100%">
   </div>
 </div>
 
