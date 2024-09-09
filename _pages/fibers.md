@@ -94,7 +94,7 @@ They chose to use thread and fabric in matching colors as a callback to an embro
 </div>
 
 ## Community Quilting (2023)
-<i>Various community quilting projects, utilizing textiles, woodwork, and electronics. This was organized as a series of ongoing group projects, culminating in showing at a number of arts shows in San Francisco and a traveling quilting bee in August 2024.</i>
+Various community quilting projects, utilizing textiles, woodwork, and electronics. This was organized as a series of ongoing group projects, culminating in showing at a number of arts shows in San Francisco and a traveling quilting bee in August 2024.
 
 <div class="row image-wrap">
   <div class="column-3">
@@ -120,7 +120,9 @@ They chose to use thread and fabric in matching colors as a callback to an embro
 </div>
 
 ## Magic Quilt (2023)
-<i>Michelle works on other quilting and textile projects, which you can view <a href="https://www.instagram.com/lowtechfibers/" target="_blank">here</a>. This is the Reflections Quilt pattern by Everyday Stitches. Queen Size, 88”x88”. Piecing and quilting by Michelle using a Husqvarna Viking sewing machine.</i><br>
+Michelle works on other quilting and textile projects, which you can view <a href="https://www.instagram.com/lowtechfibers/" target="_blank">here</a>. 
+
+<i>This is the Reflections Quilt pattern by Everyday Stitches. Queen Size, 88”x88”. Piecing and quilting by Michelle using a Husqvarna Viking sewing machine.</i><br>
 
 <div class="row image-wrap">
   <div class="column-2">
