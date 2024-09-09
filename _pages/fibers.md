@@ -100,7 +100,7 @@ Various community quilting projects, utilizing textiles, woodwork, and electroni
 
 <div class="row image-wrap">
   <div class="column-3">
-    <img src="/images/projects1.jpeg" alt="Snow" style="width:100%">
+    <img src="/images/jlights.jpeg" alt="Snow" style="width:100%">
   </div>
   <div class="column-3">
     <img src="/images/quiltworkshop.jpeg" alt="Forest" style="width:100%">
