@@ -4,7 +4,7 @@ description: Fiber art projects
 ---
 <div class="negative-margin"></div>
 
-<img src="/images/fiber_top.png" class="spacer center">
+<img src="/images/fiber_top2.png" class="spacer center">
 
 Michelle works on various fiber projects, mainly focusing on quilting and knitting with natural fibers. She's given talks or shown pieces at local events in San Francisco, including: Dorkbot, Open Sauce, Medicine for Nightmares Semilla Fest, AI Dreamlands at Pebblebed, Demos & Chill, and Noisebridge Hackerspace.
 
