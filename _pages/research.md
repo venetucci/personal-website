@@ -10,7 +10,20 @@ Fieldsite: Silicon Valley, San Francisco Bay Area, CA
 
 Research interests: Science and Technology Studies (STS), economic anthropology, anthropology of finance, anthropology of capitalism, corporations, feminist studies of capitalism. 
 
+<img src="/images/culdesac.jpg" class="spacer center">
+<p class="text-xs"><i>In the heart of Silicon Valley – Photo of Eichler homes, taken during fieldwork in 2023</i>
+</p>
+
 ## Conference Talks
+
+Presenter, "Innovation as Maintenance: Silicon Valley and the American Dream" _STS Hub 2025: Diffracting the Critical_. Berlin, Germany (Upcoming 2025). 
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+STS scholars have often separated concepts of maintenance and innovation, offering maintenance practices as an alternative to the tech industry’s visible commitment to innovation. And yet, instead of producing ruptures and changes in foundational aspects of society as promised by innovation discourse, Silicon Valley’s products have leveraged and entrenched existing structures of power, acting as a practice of social maintenance as they’ve been increasingly used to optimize financial interests. This paper proposes thinking about tech corporations in Silicon Valley as inflammable objects, with the push for innovation grounded in desires to maintain the American Dream. Building on Annemarie Mol and John Law’s notion of “mutable mobiles” that are characterized by variability without losing their identity, this ethnographic project follows innovation discourse into the industry’s center, looking at how volatile startup projects and discourse about different futures continually solidify into maintaining existing structures of power. Using a diffractive analysis to navigate between explosive critiques of corporate harms and the sleepy suburbs that shape the everyday life of corporate employees, these tensions expose how the harms of Big Tech are entangled with more widespread contexts of chronic inflammation, informing pathways to addressing seemingly acute problems that fade into chronic conditions.
+</p>
+</details>
 
 Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _Policy & Internet Conference_. University of Sydney, Australia (2024). 
 
