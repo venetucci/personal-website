@@ -25,6 +25,8 @@ STS scholars have often separated concepts of maintenance and innovation, offeri
 </p>
 </details>
 
+Roundtable presenter, "Shaping Anthropological Praxis: AI, Pedagogy, and Insights from Scholars, Practitioners, and New Voices" _American Anthropological Association Annual Meeting: Praxis_. Tampa, Fl (2024). 
+
 Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _Policy & Internet Conference_. University of Sydney, Australia (2024). 
 
 <details class="margin-bottom-lg">
