@@ -8,7 +8,7 @@ PhD Candidate at Yale University, Anthropology.
 
 Fieldsite: Silicon Valley, San Francisco Bay Area, CA
 
-Research interests: Science and Technology Studies (STS), economic anthropology, anthropology of finance, anthropology of capitalism, corporations, feminist studies of capitalism. 
+Research interests: economic anthropology, anthropology of finance, corporations, feminist studies of capitalism, science and technology studies (STS). 
 
 <img src="/images/culdesac.jpg" class="spacer center">
 <p class="text-xs"><i>In the heart of Silicon Valley – Photo of Eichler homes, taken during fieldwork in 2023</i>
