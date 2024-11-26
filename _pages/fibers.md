@@ -12,7 +12,7 @@ She co-created the <a href="https://www.noisebridge.net/wiki/Fyber_Collective_Pr
 
 The collective is currently working on an ongoing series of AI-designed textiles that they turn into physical objects, using this as a jumping off point for marking current capabilities of AI and exploring how people in the tech industry narrate and anticipate AI developments. These quilting and embroidery projects also incorporate circuit hacking and woodwork as a way to trouble the constructed delineations between "crafts" and "technology," especially gendered associations that create social hierarchies. By moving between the various workshop spaces at Noisebridge and noting the gender associations that shift between those movements, we explore how these constructed narratives of separation are related to their differential ability to create capital value. Our projects were <a href="https://missionlocal.org/2023/04/noisebridge-the-last-free-space-in-san-francisco">featured in Mission Local</a> in 2023.
 
-Below is a selection of these projects, with live updates over at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">@lowtechfibers</a>. 
+Below is a selection of these projects, with live updates at <a href="https://www.instagram.com/lowtechfibers/" target="_blank">lowtechfibers</a> on Instagram.
 
 Newer projects/skills: risograph printing, punch card looms, weaving, hand-quilting, core rope memory / woven computer systems.
 
