@@ -16,7 +16,7 @@ Research interests: economic anthropology, anthropology of finance, corporations
 
 ## Conference Talks
 
-Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley" _Revitalizing Applied Anthropology_, Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA). Portland, OR (2025).
+Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley." _Revitalizing Applied Anthropology_, Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA). Portland, OR (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
@@ -25,7 +25,7 @@ Do shifting narratives of work allow for broader changes in processes of capital
 </p>
 </details>
 
-Presenter, "Innovation as Maintenance: Silicon Valley and the American Dream" _STS Hub 2025: Diffracting the Critical_. Berlin, Germany (2025). 
+Presenter, "Innovation as Maintenance: Silicon Valley and the American Dream." _STS Hub 2025: Diffracting the Critical_. Berlin, Germany (2025). 
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
@@ -34,7 +34,7 @@ STS scholars have often separated concepts of maintenance and innovation, offeri
 </p>
 </details>
 
-Roundtable presenter, "Shaping Anthropological Praxis: AI, Pedagogy, and Insights from Scholars, Practitioners, and New Voices" _American Anthropological Association Annual Meeting: Praxis_. Tampa, Fl (2024). 
+Roundtable presenter, "Shaping Anthropological Praxis: AI, Pedagogy, and Insights from Scholars, Practitioners, and New Voices." _American Anthropological Association Annual Meeting: Praxis_. Tampa, Fl (2024). 
 
 Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _Policy & Internet Conference_. University of Sydney, Australia (2024). 
 
