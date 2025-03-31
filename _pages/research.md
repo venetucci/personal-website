@@ -16,7 +16,7 @@ Research interests: economic anthropology, anthropology of finance, corporations
 
 ## Conference Talks
 
-Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley" _Revitalizing Applied Anthropology_. Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA), Portland, OR (2025).
+Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley" _Revitalizing Applied Anthropology_, Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA). Portland, OR (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
