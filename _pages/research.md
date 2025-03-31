@@ -16,7 +16,16 @@ Research interests: economic anthropology, anthropology of finance, corporations
 
 ## Conference Talks
 
-Presenter, "Innovation as Maintenance: Silicon Valley and the American Dream" _STS Hub 2025: Diffracting the Critical_. Berlin, Germany (Upcoming 2025). 
+Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley" _Revitalizing Applied Anthropology_. Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA), Portland, OR (2025).
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+Do shifting narratives of work allow for broader changes in processes of capitalism? In the wake of the COVID-19 pandemic that shook up the practices of work across society, Silicon Valley-created technologies allowed many people to continue working while being quarantined at home. As this moment of global crisis shook up established norms around work, Silicon Valley’s own work cultures were doubly hit by these work from home contexts following years of sustained critique known as the techlash. Following Peter Benson and Stuart Kirsch’s (2010) call to examine the functioning of power through looking at how corporations respond to crisis and critique, this paper utilizes ethnographic work conducted in the aftermath of the techlash to explore how industry workers started changing their relationship to work. While the techlash succeeded in shifting the emotional habitus of industry workers, a subsequent collapse of techlash-inspired strategies for change manifested through resigned solidarities with capitalist interests, providing a productive space through which to understand how capitalist actions are negotiated. Looking at the mechanisms through which shifting sentiments about work were re-absorbed into corporate projects, I highlight how diverse sentiments and contradictory desires expressed by industry actors converge towards the same ends.  
+</p>
+</details>
+
+Presenter, "Innovation as Maintenance: Silicon Valley and the American Dream" _STS Hub 2025: Diffracting the Critical_. Berlin, Germany (2025). 
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
