@@ -16,6 +16,15 @@ Research interests: economic anthropology, anthropology of finance, corporations
 
 ## Conference Talks
 
+Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _75th Annual International Conference_, Political Studies Association (PSA) with the University of Birmingham and Aston University. Birmingham, UK (2025).
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+Many approaches to tech policy scramble to address new company products, technological innovations, and corporate scandals. In the 2010s, the U.S. government responded to the Cambridge Analytica data scandal by organizing inquiries into Facebook’s privacy practices, while scholars produced work aimed at uncovering bias in algorithms, social media’s impacts on sociality, and labor abuses on digital platforms. But as the influence of Big Tech continues to expand despite these investigations and new hype around AI has produced inquiries into AI-specific policies, this paper asks: is this approach of tech-specific critique and policy the best strategy for broad-scale change? Using empirical examples from ethnographic research conducted in Silicon Valley between 2022 and 2024, this paper explores the foundational role of venture capital financing in shaping corporate decision-making and outcomes across the industry. As speculative financial models create the incentives for hyper growth-oriented corporate strategies, these financial structures connect Silicon Valley to much wider processes of financialization that contribute to increasing inequality and the consolidation of wealth on a global scale. I draw on participant observation at tech companies in San Francisco to trace how finance capital shapes the inner-workings of corporate strategies rather than tech-specific policy or technical considerations. This ethnographic analysis demonstrates how industry actors pivot around capital in order to survive, directed by structural conditions rather than technology-related motivations. While focusing on the external impacts of corporate products generates the stakes of critical research, this paper advocates for studying the inner-workings of the industry in order to better identify the root causes of harmful externalities. It may be that the best approach to “good internet policy” doesn’t direct attention towards information technology or digital platforms at all, but rather addresses the underlying financial systems that consolidate wealth and continue to shape the direction of corporate products.   
+</p>
+</details>
+
 Presenter, "In the Business of Resignation: The Relationship Between Narrative and Practice in Silicon Valley." _Revitalizing Applied Anthropology_, Society for the Anthropology of North America (SANA) and Society for Applied Anthropology (SfAA). Portland, OR (2025).
 
 <details class="margin-bottom-lg">
