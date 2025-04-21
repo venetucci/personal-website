@@ -16,6 +16,33 @@ Research interests: economic anthropology, anthropology of finance, corporations
 
 ## Conference Talks
 
+Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _10th Annual STS Italia Conference - Technoscience for Good: Designing, Caring, Reconfiguring_, Politecnico di Milano. Milan, Italy (Upcoming 2025).
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+Critical analyses of Silicon Valley often focus on the problem of ideology, deconstructing techno-utopian claims in an effort to address the harmful outcomes of corporate technology projects. As this focus on ideology can locate the problem within individuals and their beliefs, this paper instead directs analytic attention to the structural conditions through which these publicly circulating narratives are produced, exploring how centering analysis around institutionalized contexts can change our understanding of what drives industry behaviors. Using empirical examples from ethnographic research conducted in Silicon Valley between 2022 and 2024, I show how hyped claims are cultivated as a way to take action within the uncertainty of venture capital’s speculative financial models, representing weakly held beliefs that are subject to change in the face of shifting investor interest and market conditions. Given that the companies constituting “Big Tech” were all structured by venture capital from early stages, this paper starts with two seed-stage startups in the crypto and AI spaces, showing how founders frequently changed their narrative claims as they searched for a fit between their product strategy and a growth-oriented market that fits into shifting investor hype cycles. I then follow a third startup as they raised what is called a Series A round of funding, showing how investors made financial decisions based on a revenue chart that indicated product-market fit in a growth-oriented market. These examples demonstrate how industry actors at every level pivot around capital in order to survive, directed by structural conditions rather than ideologies about techno-utopian futures. For scholars who may hope to positively affect society with critical analysis, this paper highlights the importance of engaging with the constraints felt by so-called powerful actors in untangling how power structures continue to be reproduced in the face of critical inquiry.    
+</p>
+</details>
+
+Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _6th European Technology Assessment Conference (ETAC6)_, Institute of Technology Assessment (ITA) at the Austrian Academy of Sciences in cooperation with the globalTA network. Vienna, Austria (Upcoming 2025).
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+Critical analyses of Silicon Valley often focus on the problem of ideology, deconstructing techno-utopian claims in an effort to address the harmful outcomes of corporate technology projects. As this focus on ideology can locate the problem within individuals and their beliefs, this paper instead directs analytic attention to the structural conditions through which these publicly circulating narratives are produced, exploring how centering analysis around institutionalized contexts can change our understanding of what drives industry behaviors. Using empirical examples from ethnographic research conducted in Silicon Valley between 2022 and 2024, I show how hyped claims are cultivated as a way to take action within the uncertainty of venture capital’s speculative financial models, representing weakly held beliefs that are subject to change in the face of shifting investor interest and market conditions. For scholars who may hope to positively affect society with critical analysis, this paper highlights the importance of engaging with the constraints felt by so-called powerful actors in untangling how power structures continue to be reproduced in the face of critical inquiry.    
+</p>
+</details>
+
+Presenter, "Silicon Suburbia: Growth and Maintaining the American Dream." _Money Talks: Futures for the Economic Humanities_, University of Edinburgh. Edinburgh, Scotland (Upcoming 2025).
+
+<details class="margin-bottom-lg">
+<summary><span class="pointer text-xs">Abstract</span></summary>
+<p class="text-xs">
+Silicon Valley has often served as an exemplar of the post-Fordist flexible economy, both in championing new corporate practices and in enabling a broader adoption of flexibilization through the production of new technologies. As anthropologists have highlighted how the economic and social are co-constituted, depictions of industry actors as dedicated to new entrepreneurial subjectivities and risk-taking behaviors reinforce this idea of new forms of capitalist practice that reconfigure social and domestic life. And yet, Silicon Valley has continually reproduced structural inequalities, revealing continuities with socialities past rather than new horizons of possibility. This paper interrogates how cross-generational hauntings shape the expansionary impulses of Silicon Valley, engaging with the suburban infrastructure that birthed the industry and the Fordist middle class practices of the tech workforce. By ethnographically tracing how risk averse aspirations for stable domestic life undergird flexible economic scale projects, I show how the industry’s global expansion is reproduced through local familial attachments to more modest economic growth. As workplace subjectivities are shaped by newer economic models as well as familial practices grounded in histories of westward expansion, this paper illustrates how future-focused regimes of flexible accumulation in Silicon Valley are facilitated by domestic contexts that stretch back across generations.    
+</p>
+</details>
+
 Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _75th Annual International Conference_, Political Studies Association (PSA) with the University of Birmingham and Aston University. Birmingham, UK (2025).
 
 <details class="margin-bottom-lg">
