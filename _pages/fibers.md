@@ -150,7 +150,7 @@ Michelle works on other quilting and textile projects, which you can view <a hre
 ## Selected knitting (2018-2024)
 <i>Cotton and alpaca wool</i><br>
 
-Michelle's great aunt taught her to knit when she was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
+Michelle's great aunt <a href="https://www.cspm.org/cos-150-story/venetucci-pumpkin-farm/" target="_blank">Bambina "Bambi" Venetucci</a> taught her to knit when she was about 10 years old, sitting in her farmhouse sun room in Colorado Springs. Here are some selected projects from the past 5 years, mostly made with cotton or alpaca wool yarn. 
 
 <img src="/images/knitting_projects.jpg" class="spacer center">
 
