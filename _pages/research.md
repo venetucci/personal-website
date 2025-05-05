@@ -4,15 +4,9 @@ description: Academic Work
 ---
 <div class="negative-margin"></div>
 
-PhD Candidate at Yale University, Anthropology. 
+Michelle Venetucci is an economic anthropologist with a focus on the technology industry in the San Francisco Bay Area. While Silicon Valley has often served as an exemplar of the post-Fordist flexible economy, her work highlights how individual actors gravitate towards these flexible economic contexts through attachments to Fordist family models established in post-war American suburbs. Her dissertation, titled _Stuck in Silicon Suburbia: Privileged Positionalities and Constrained Materialities in Silicon Valley_, shows how the expectations of a stable domestic life become incorporated into the more flexible “high risk” practices of venture capital. Drawing on time spent inside companies and moving outward into the homes of corporate employees and startup founders, this dissertation is organized around five chapters that explore the industry as a coherent, interdependent network structured by speculative finance, with ethnographic attention to growth. Her work engages with the anthropology of finance, feminist studies of capitalism, and Science and Technology Studies (STS).
 
-Fieldsite: Silicon Valley, San Francisco Bay Area, CA
-
-Research interests: economic anthropology, anthropology of finance, corporations, feminist studies of capitalism, science and technology studies (STS). 
-
-<img src="/images/culdesac.jpg" class="spacer center">
-<p class="text-xs"><i>In the heart of Silicon Valley – Photo of Eichler homes, taken during fieldwork in 2023</i>
-</p>
+Before graduate school, she spent the 2010s working at Lyft and Github while watching her husband build two venture capital-backed tech startups in Silicon Valley. She holds a bachelor’s in anthropology and urban planning from the University of Washington, Seattle, and a MPhil in anthropology from Yale. She's currently a PhD candidate in the Yale anthropology department and a policy fellow at the Institution for Social and Policy Studies.
 
 ## Conference Talks
 
