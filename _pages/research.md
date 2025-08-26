@@ -16,24 +16,32 @@ Panel Organizer, "The Specter of “Disruption”: The Haunted and Haunting Poli
 <summary><span class="pointer text-xs">Panel Abstract</span></summary>
 <p class="text-xs">
 The trope of disruption posits a radical overture to the future, but ethnography reveals that seeming innovations often perpetuate prior ideologies and hierarchies, haunted, as it were, by the past. Over the past few decades, the Silicon Valley model of venture capital (VC) investment and cultures of startup entrepreneurship has become embedded in state governance and business practices worldwide. At a political moment when prominent figures in venture techno-capitalism are taking center stage in global politics and governance, and as ghosts of wars past--both hot and Cold--come knocking, this panel critically reflects on a central question: what do technologies of disruption--be they financial, governmental, technoscientific or otherwise--perpetuate, and how? Under the guise of "disruption," what phantoms of the past still walk among us?
-
+</p>
+<p class="text-xs">
 Taking seriously the theme of the conference, we draw from global field sites of tech hubs in Rwanda, the United States, Finland, and China to offer perspectives on how attempts at disruptive change and innovation do not simply shake off historical and political burdens, but instead resurrect and perpetuate them in new spectral forms. For example: how does Rwanda's history of genocide cast a shadow on the state's efforts to "leapfrog" these pasts and technologically transcend legacy systems still haunted by decades of colonial rule and ongoing resource extraction? How do histories of westward expansion and Fordist expectations of suburban domesticity among Silicon Valley's middle class quietly perpetuate inequality in the tech industry and beyond? How does Finnish startup culture attempt to recuperate from the effects of "techlash" criticism to recast itself as a progressive force in society, capable of inheriting the legacy of the declining welfare state? And finally, how does Deng Xiaoping's legacy reverberate from the afterlife, fueling the VC-driven policy landscape in China? By looking at how the past haunts our present, we not only seek to decipher "old stories in new software," but also to reflect on how specters of VC-driven speculation may haunt our collective futures.
 </p>
 <p class="text-xs">
-_Organized by:_
-
+**Organized by:
+**</p>
+<p class="text-xs">
 Jamie Wong, Harvard University  
-
+</p>
+<p class="text-xs">
 Sakari Mesimäki, University of Cambridge  
-
+</p>
+<p class="text-xs">
 Michelle Venetucci, Yale University   
-
+</p>
+<p class="text-xs">
 Alexandrine Royer, University of Cambridge  
-
-_Discussants:_ 
-
+</p>
+<p class="text-xs">
+Discussants:
+</p>
+<p class="text-xs">
 Karen Ho, University of Minnesota  
-
+</p>
+<p class="text-xs">
 Janet Roitman, University in Melbourne
 </p>
 </details>
@@ -44,26 +52,33 @@ Panel Organizer, "Theorizing Stuckness in Science and Technology." _4S 2025_, Se
 <summary><span class="pointer text-xs">Panel Abstract</span></summary>
 <p class="text-xs">
 What might we learn by studying science and technology through the lens of stuckness as opposed to progress? 
-
+</p>
+<p class="text-xs">
 While critical conversations in STS have deconstructed progress narratives in science and technology, actors on the ground are well aware that their everyday work is far from smooth. Scientists are constantly frustrated with unexpected obstacles to their research plans (e.g., Messeri & Vertesi, 2015). Technologists who aspire to change the world often end up reproducing current structures of power (e.g., Rider, 2021). These experiences show up in empirical research, and yet are rarely theorized. In this panel, we propose foregrounding contexts of stuckness, inertia, and stagnation as a way to examine the production of scientific knowledge and technological projects and their societal impacts.
-
+</p>
+<p class="text-xs">
 Stuckness can be material, affective, discursive, and subjective; it can describe particular moments or extend into chronic conditions. On the one hand, moments of stuckness highlight how seemingly powerful experts are situated within material and structural constraints. On the other hand, experts often feel stuck, revealing the aspirations and expectations that experts might have about their work precisely as they fail to materialize. Stuckness enables us to bring together the material and discursive forces that shape the work of experts, moving towards an expansive understanding of how scientific and technological practices are produced.
-
+</p>
+<p class="text-xs">
 We invite scholars from a variety of fields and topic areas to explore stuckness, using the concept as a jumping off point for opening up new conversations about science, technology, and society: When do actors get stuck, and what responses does that elicit? How do different people experience stuckness? What might experiences of stuckness reveal about structural conditions, chronic issues, or routinized crises? We welcome papers that consider the theoretical and methodological possibilities that emerge from centering stuckness in the study of science and technology.     
 </p>
 <p class="text-xs">
-_Organized by:_
-
+Organized by:
+</p>
+<p class="text-xs">
 Michelle Venetucci, PhD Candidate at Yale Anthropology 
-
+</p>
+<p class="text-xs">
 Shoko Yamada, PhD Candidate at Yale Anthropology 
-
-_Discussants:_ 
-
+</p>
+<p class="text-xs">
+Discussants:
+</p>
+<p class="text-xs">
 Nick Seaver, Assistant Professor of Anthropology at Tufts University
-
+</p>
+<p class="text-xs">
 Rebecca Slayton, Associate Professor at Cornell University
-
 </p>
 </details>
 
