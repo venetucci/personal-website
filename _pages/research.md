@@ -10,7 +10,7 @@ Before graduate school, she spent the 2010s working at Lyft and Github while wat
 
 ## Conference Talks
 
-Panel Organizer, "The Specter of “Disruption”: The Haunted and Haunting Political Economy of Venture Capitalism and Startup Entrepreneurship." _American Anthropological Association Annual Meeting_, New Orleans (Upcoming November 2025). 
+Panel Organizer, "The Specter of 'Disruption': The Haunted and Haunting Political Economy of Venture Capitalism and Startup Entrepreneurship." _American Anthropological Association Annual Meeting_, New Orleans (Upcoming November 2025). 
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Panel Abstract</span></summary>
@@ -21,8 +21,8 @@ The trope of disruption posits a radical overture to the future, but ethnography
 Taking seriously the theme of the conference, we draw from global field sites of tech hubs in Rwanda, the United States, Finland, and China to offer perspectives on how attempts at disruptive change and innovation do not simply shake off historical and political burdens, but instead resurrect and perpetuate them in new spectral forms. For example: how does Rwanda's history of genocide cast a shadow on the state's efforts to "leapfrog" these pasts and technologically transcend legacy systems still haunted by decades of colonial rule and ongoing resource extraction? How do histories of westward expansion and Fordist expectations of suburban domesticity among Silicon Valley's middle class quietly perpetuate inequality in the tech industry and beyond? How does Finnish startup culture attempt to recuperate from the effects of "techlash" criticism to recast itself as a progressive force in society, capable of inheriting the legacy of the declining welfare state? And finally, how does Deng Xiaoping's legacy reverberate from the afterlife, fueling the VC-driven policy landscape in China? By looking at how the past haunts our present, we not only seek to decipher "old stories in new software," but also to reflect on how specters of VC-driven speculation may haunt our collective futures.
 </p>
 <p class="text-xs">
-**Organized by:
-**</p>
+Organized by:
+</p>
 <p class="text-xs">
 Jamie Wong, Harvard University  
 </p>
@@ -46,7 +46,7 @@ Janet Roitman, University in Melbourne
 </p>
 </details>
 
-Panel Organizer, "Theorizing Stuckness in Science and Technology." _4S 2025_, Seattle. 
+Panel Organizer, "Theorizing Stuckness in Science and Technology." _4S 2025_, Seattle (2025). 
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Panel Abstract</span></summary>
@@ -82,7 +82,7 @@ Rebecca Slayton, Associate Professor at Cornell University
 </p>
 </details>
 
-Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _10th Annual STS Italia Conference - Technoscience for Good: Designing, Caring, Reconfiguring_, Politecnico di Milano. Milan, Italy.
+Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _10th Annual STS Italia Conference - Technoscience for Good: Designing, Caring, Reconfiguring_, Politecnico di Milano. Milan, Italy (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
@@ -91,7 +91,7 @@ Critical analyses of Silicon Valley often focus on the problem of ideology, deco
 </p>
 </details>
 
-Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _6th European Technology Assessment Conference (ETAC6)_, Institute of Technology Assessment (ITA) at the Austrian Academy of Sciences in cooperation with the globalTA network. Vienna, Austria.
+Presenter, "'Strong Opinions, Weakly Held': How Finance Shapes Hype in Silicon Valley." _6th European Technology Assessment Conference (ETAC6)_, Institute of Technology Assessment (ITA) at the Austrian Academy of Sciences in cooperation with the globalTA network. Vienna, Austria (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
@@ -100,7 +100,7 @@ Critical analyses of Silicon Valley often focus on the problem of ideology, deco
 </p>
 </details>
 
-Presenter, "Silicon Suburbia: Growth and Maintaining the American Dream." _Money Talks: Futures for the Economic Humanities_, University of Edinburgh. Edinburgh, Scotland.
+Presenter, "Silicon Suburbia: Growth and Maintaining the American Dream." _Money Talks: Futures for the Economic Humanities_, University of Edinburgh. Edinburgh, Scotland (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
