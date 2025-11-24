@@ -108,7 +108,7 @@ Silicon Valley has often served as an exemplar of the post-Fordist flexible econ
 </p>
 </details>
 
-Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _75th Annual International Conference_, Political Studies Association (PSA) with the University of Birmingham and Aston University. Birmingham, UK (2025).
+Presenter, "Pivoting Around Capital in Silicon Valley: Alternative Approaches to Tech Policy." _75th Annual International Conference_, Political Studies Association (PSA) with the University of Birmingham and Aston University. Birmingham, England (2025).
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Abstract</span></summary>
