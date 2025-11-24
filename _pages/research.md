@@ -12,7 +12,7 @@ Before graduate school, she spent the 2010s working at Lyft and Github while wat
 
 ## Conference Talks
 
-Panel Organizer, "The Specter of 'Disruption': The Haunted and Haunting Political Economy of Venture Capitalism and Startup Entrepreneurship." _American Anthropological Association Annual Meeting_, New Orleans (Upcoming November 2025). 
+Panel Organizer, "The Specter of 'Disruption': The Haunted and Haunting Political Economy of Venture Capitalism and Startup Entrepreneurship." _American Anthropological Association Annual Meeting_, New Orleans. 
 
 <details class="margin-bottom-lg">
 <summary><span class="pointer text-xs">Panel Abstract</span></summary>
@@ -42,9 +42,6 @@ Discussants:
 </p>
 <p class="text-xs">
 Karen Ho, University of Minnesota  
-</p>
-<p class="text-xs">
-Janet Roitman, University in Melbourne
 </p>
 </details>
 
