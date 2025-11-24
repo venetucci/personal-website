@@ -38,7 +38,7 @@ Michelle Venetucci, Yale University
 Alexandrine Royer, University of Cambridge  
 </p>
 <p class="text-xs">
-Discussants:
+Discussant:
 </p>
 <p class="text-xs">
 Karen Ho, University of Minnesota  
